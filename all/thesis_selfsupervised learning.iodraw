@@ -16,7 +16,7 @@
         <mxCell id="Qy-mN9d_JIgyYBizsppX-104" value="raw missing" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
           <mxGeometry x="1600" y="170" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Qy-mN9d_JIgyYBizsppX-105" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7EA6E0;fillStyle=cross-hatch;" vertex="1" parent="1">
+        <mxCell id="Qy-mN9d_JIgyYBizsppX-105" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7EA6E0;fillStyle=dots;" vertex="1" parent="1">
           <mxGeometry x="1420" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-106" value="training: random masked missing" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
