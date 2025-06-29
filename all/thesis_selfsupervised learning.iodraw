@@ -641,10 +641,10 @@
           <mxGeometry x="740" y="1340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-745" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7D9BE5;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="1590" width="120" height="60" as="geometry" />
+          <mxGeometry x="1100" y="1560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-747" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7D9BE5;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="1580" width="120" height="130" as="geometry" />
+          <mxGeometry x="1100" y="1620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
