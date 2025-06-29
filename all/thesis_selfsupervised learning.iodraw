@@ -1,44 +1,44 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="24.7.17">
   <diagram id="EE_fNQLQU6LWkINdDjPs" name="第 1 页">
-    <mxGraphModel dx="1851" dy="1187" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2545" dy="1633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Qy-mN9d_JIgyYBizsppX-101" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="1670" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-102" value="observations" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="60" width="280" height="40" as="geometry" />
+          <mxGeometry x="1850" y="60" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-103" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="1670" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-104" value="raw missing" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="170" width="280" height="40" as="geometry" />
+          <mxGeometry x="1850" y="170" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-105" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7EA6E0;fillStyle=hatch;strokeColor=#7EA6E0;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="1670" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-106" value="training: random masked missing" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="280" width="610" height="40" as="geometry" />
+          <mxGeometry x="1850" y="280" width="610" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-107" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7EA6E0;fillStyle=solid;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="1670" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-108" value="training: observation from random mask" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="390" width="720" height="40" as="geometry" />
+          <mxGeometry x="1850" y="390" width="720" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-109" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF8000;fillStyle=hatch;gradientColor=none;strokeColor=#FF8000;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="1670" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-110" value="testing: imputation target" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="500" width="720" height="40" as="geometry" />
+          <mxGeometry x="1850" y="500" width="720" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-111" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF8000;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="1670" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-112" value="testing: conditional observations" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="610" width="720" height="40" as="geometry" />
+          <mxGeometry x="1850" y="610" width="720" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-113" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" vertex="1" parent="1">
           <mxGeometry x="50" y="40" width="120" height="60" as="geometry" />
