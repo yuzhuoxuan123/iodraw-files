@@ -22,7 +22,7 @@
         <mxCell id="Qy-mN9d_JIgyYBizsppX-106" value="training: random masked missing" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
           <mxGeometry x="1600" y="280" width="610" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Qy-mN9d_JIgyYBizsppX-107" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7EA6E0;fillStyle=hatch;" vertex="1" parent="1">
+        <mxCell id="Qy-mN9d_JIgyYBizsppX-107" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7EA6E0;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="1420" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-108" value="training: observation from random mask" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
