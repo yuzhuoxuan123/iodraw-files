@@ -469,12 +469,6 @@
         <mxCell id="Qy-mN9d_JIgyYBizsppX-664" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EF767A;fillStyle=hatch;strokeColor=#EF767A;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="500" y="920" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qy-mN9d_JIgyYBizsppX-665" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EF767A;fillStyle=hatch;strokeColor=#EF767A;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="500" y="980" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Qy-mN9d_JIgyYBizsppX-666" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EF767A;fillStyle=hatch;strokeColor=#EF767A;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="500" y="1040" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-670" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EF767A;fillStyle=hatch;strokeColor=#EF767A;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="500" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
@@ -489,12 +483,6 @@
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-674" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EF767A;fillStyle=hatch;strokeColor=#EF767A;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="380" y="920" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Qy-mN9d_JIgyYBizsppX-675" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EF767A;fillStyle=hatch;strokeColor=#EF767A;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="380" y="980" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Qy-mN9d_JIgyYBizsppX-676" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EF767A;fillStyle=hatch;strokeColor=#EF767A;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="380" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-680" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EF767A;fillStyle=hatch;strokeColor=#EF767A;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="380" y="1280" width="120" height="60" as="geometry" />
