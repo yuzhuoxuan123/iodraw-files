@@ -938,7 +938,10 @@
           <mxGeometry x="260" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-907" value="imputation target" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
-          <mxGeometry x="1720" y="1160" width="720" height="40" as="geometry" />
+          <mxGeometry x="1720" y="1160" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qy-mN9d_JIgyYBizsppX-908" value="imputation target" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
+          <mxGeometry x="1730" y="1170" width="270" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
