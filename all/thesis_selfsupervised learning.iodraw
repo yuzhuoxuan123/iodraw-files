@@ -986,7 +986,7 @@
           <mxGeometry x="-260" y="1820" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-924" value="randmask ratio for self-supervised learning" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
-          <mxGeometry x="1700" y="1780" width="430" height="40" as="geometry" />
+          <mxGeometry x="1700" y="1780" width="650" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
