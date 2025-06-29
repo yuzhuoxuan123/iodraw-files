@@ -989,7 +989,10 @@
           <mxGeometry x="1700" y="1780" width="650" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-925" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EF767A;fillStyle=hatch;strokeColor=#EF767A;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1680" y="391" width="120" height="60" as="geometry" />
+          <mxGeometry x="2385" y="1770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qy-mN9d_JIgyYBizsppX-926" value="randmask ratio for self-supervised learning" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="1940" width="650" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
