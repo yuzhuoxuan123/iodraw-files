@@ -928,8 +928,8 @@
         <mxCell id="Qy-mN9d_JIgyYBizsppX-901" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EF767A;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="140" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qy-mN9d_JIgyYBizsppX-902" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EF767A;fillStyle=solid;" vertex="1" parent="1">
-          <mxGeometry x="260" y="1100" width="120" height="60" as="geometry" />
+        <mxCell id="Qy-mN9d_JIgyYBizsppX-903" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EF767A;fillStyle=hatch;strokeColor=#EF767A;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
