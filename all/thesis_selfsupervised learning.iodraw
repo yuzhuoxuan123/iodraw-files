@@ -976,6 +976,9 @@
         <mxCell id="Qy-mN9d_JIgyYBizsppX-919" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#48C0AA;fillStyle=hatch;strokeColor=#48C0AA;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2340" y="1420" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Qy-mN9d_JIgyYBizsppX-920" value="observations" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
+          <mxGeometry x="1860" y="70" width="280" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
