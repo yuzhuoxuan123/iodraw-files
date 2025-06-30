@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="24.7.17">
   <diagram id="EE_fNQLQU6LWkINdDjPs" name="第 1 页">
-    <mxGraphModel dx="11349" dy="6530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3714" dy="1633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -321,9 +321,6 @@
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-605" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#48C0AA;fillStyle=hatch;strokeColor=#48C0AA;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="980" y="350" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Qy-mN9d_JIgyYBizsppX-606" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#48C0AA;fillStyle=hatch;strokeColor=#48C0AA;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="980" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-607" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#48C0AA;fillStyle=hatch;strokeColor=#48C0AA;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="860" y="170" width="120" height="60" as="geometry" />
