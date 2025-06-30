@@ -1012,6 +1012,15 @@
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1066" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7D9BE5;fillStyle=hatch;gradientColor=none;strokeColor=#7D9BE5;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1100" y="1980" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Qy-mN9d_JIgyYBizsppX-1071" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7D9BE5;fillStyle=hatch;gradientColor=none;strokeColor=#7D9BE5;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2810" y="1930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qy-mN9d_JIgyYBizsppX-1072" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#48C0AA;" vertex="1" parent="1">
+          <mxGeometry x="3025" y="1930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qy-mN9d_JIgyYBizsppX-1073" value="/" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
+          <mxGeometry x="2975" y="1940" width="30" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
