@@ -125,10 +125,10 @@
           <mxGeometry x="45" y="610" width="205" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-45" value="&lt;div style=&quot;text-align: left; font-size: 17px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;&lt;font face=&quot;SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace&quot; style=&quot;font-size: 17px;&quot;&gt;$$\mathbf{x}_0^\mathrm{co}$$&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="-53.75" y="440" width="57.5" height="60" as="geometry" />
+          <mxGeometry x="-50" y="440" width="57.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-46" value="&lt;div style=&quot;text-align: left; font-size: 17px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;&lt;font face=&quot;SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace&quot; style=&quot;font-size: 17px;&quot;&gt;$$p(\mathbf{z}\mid\mathbf{x}_0^\mathrm{co})$$&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="90" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="87.5" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-47" value="&lt;div style=&quot;text-align: left; font-size: 17px;&quot;&gt;&lt;span style=&quot;color: rgb(28, 31, 35); font-family: Inter, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: medium; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;$$\mathbf{z} \sim p(\mathbf{z}\mid\mathbf{x}_0^\mathrm{co})$$&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="250" y="440" width="144" height="60" as="geometry" />
