@@ -1276,20 +1276,14 @@
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1203" value="raw data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
           <mxGeometry x="300" y="2356" width="600" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="Qy-mN9d_JIgyYBizsppX-1204" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#48C0AA;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="960" y="3031" width="240" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Qy-mN9d_JIgyYBizsppX-1205" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#48C0AA;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="960" y="3141" width="240" height="110" as="geometry" />
-        </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1206" value="training" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
           <mxGeometry x="300" y="3130" width="600" height="125" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1207" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#48C0AA;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="970" y="3041" width="240" height="110" as="geometry" />
+          <mxGeometry x="960" y="3810" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1208" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#48C0AA;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="970" y="3151" width="240" height="110" as="geometry" />
+          <mxGeometry x="960" y="3920" width="240" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
