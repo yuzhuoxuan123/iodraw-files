@@ -1471,7 +1471,7 @@
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1307" value="raw data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
           <mxGeometry x="300" y="4980" width="600" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="Qy-mN9d_JIgyYBizsppX-1308" value="training" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
+        <mxCell id="Qy-mN9d_JIgyYBizsppX-1308" value="training and testing" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
           <mxGeometry x="1570" y="4980" width="940" height="125" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1309" value="testing" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
