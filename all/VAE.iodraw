@@ -122,7 +122,10 @@
           <mxGeometry x="510" y="226.25" width="70" height="82.5" as="geometry" />
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-40" value="&lt;div style=&quot;text-align: left; font-size: 17px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;&lt;font face=&quot;SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace&quot; style=&quot;font-size: 17px;&quot;&gt;$$q_\phi(\mathbf{z}\mid\mathbf{x}_0^\mathrm{co},\mathbf{M})$$&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="-55" y="480" width="205" height="60" as="geometry" />
+          <mxGeometry x="45" y="555" width="205" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3yfUWfzH2KHvVlx3le70-45" value="&lt;div style=&quot;text-align: left; font-size: 17px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;&lt;font face=&quot;SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace&quot; style=&quot;font-size: 17px;&quot;&gt;$$q_\phi(\mathbf{z}\mid\mathbf{x}_0^\mathrm{co},\mathbf{M})$$&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="55" y="565" width="205" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
