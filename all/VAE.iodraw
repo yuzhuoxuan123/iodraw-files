@@ -119,7 +119,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-39" value="decoder" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;fontSize=17;fillColor=#E4B112;gradientColor=none;gradientDirection=radial;opacity=50;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="226.25" width="70" height="82.5" as="geometry" />
+          <mxGeometry x="500" y="226.25" width="70" height="82.5" as="geometry" />
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-40" value="&lt;div style=&quot;text-align: left; font-size: 17px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;&lt;font face=&quot;SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace&quot; style=&quot;font-size: 17px;&quot;&gt;$$q_\phi(\mathbf{z}\mid\mathbf{x}_0^\mathrm{co})$$&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="45" y="610" width="205" height="60" as="geometry" />
@@ -138,6 +138,12 @@
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-50" value="&lt;div style=&quot;text-align: left; font-size: 17px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;&lt;font face=&quot;SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace&quot; style=&quot;font-size: 17px;&quot;&gt;$$\mathbf{x}_0^\mathrm{ta}$$&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="680" y="440" width="57.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3yfUWfzH2KHvVlx3le70-51" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#B3B3B3;fillColor=#73FF9D;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="350" as="sourcePoint" />
+            <mxPoint x="180" y="278" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
