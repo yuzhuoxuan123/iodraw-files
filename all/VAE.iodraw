@@ -30,7 +30,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3yfUWfzH2KHvVlx3le70-17" value="" style="endArrow=none;html=1;rounded=1;curved=0;strokeWidth=1;strokeColor=#7D9BE5;" edge="1" parent="1">
+        <mxCell id="3yfUWfzH2KHvVlx3le70-17" value="" style="endArrow=none;html=1;rounded=1;curved=0;strokeWidth=1;strokeColor=#48C0AA;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="140" as="sourcePoint" />
             <mxPoint x="340" y="240" as="targetPoint" />
@@ -97,7 +97,7 @@
         <mxCell id="3yfUWfzH2KHvVlx3le70-29" value="&lt;span style=&quot;text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;$$(\mu , \theta )$$&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#EF767A;" vertex="1" parent="1">
           <mxGeometry x="230" y="252.5" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3yfUWfzH2KHvVlx3le70-30" value="&lt;span style=&quot;text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;$$(\mu , \theta )$$&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#48C0AA;" vertex="1" parent="1">
+        <mxCell id="3yfUWfzH2KHvVlx3le70-30" value="&lt;span style=&quot;text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;$$(\mu , \theta )$$&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#7D9BE5;" vertex="1" parent="1">
           <mxGeometry x="230" y="325" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
