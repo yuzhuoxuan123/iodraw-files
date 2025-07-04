@@ -1283,7 +1283,7 @@
           <mxGeometry x="960" y="3141" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1206" value="raw data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
-          <mxGeometry x="310" y="2366" width="600" height="125" as="geometry" />
+          <mxGeometry x="300" y="3495" width="600" height="125" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
