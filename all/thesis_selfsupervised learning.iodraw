@@ -1270,6 +1270,9 @@
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1200" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7D9BE5;strokeWidth=3;fillStyle=zigzag-line;strokeColor=#7D9BE5;" vertex="1" parent="1">
           <mxGeometry x="960" y="4021" width="240" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="Qy-mN9d_JIgyYBizsppX-1201" value="observations" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
+          <mxGeometry x="1860" y="70" width="280" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
