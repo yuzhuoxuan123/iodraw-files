@@ -1297,10 +1297,10 @@
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1216" value="missing from missing mechanism" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=60;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
           <mxGeometry x="3140" y="3550" width="950" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="Qy-mN9d_JIgyYBizsppX-1220" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=5;curved=0;shadow=0;endFill=1;" edge="1" parent="1">
+        <mxCell id="Qy-mN9d_JIgyYBizsppX-1220" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=5;curved=0;shadow=0;endFill=1;exitX=0.122;exitY=0.961;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Qy-mN9d_JIgyYBizsppX-1221">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="900" y="3176" as="sourcePoint" />
-            <mxPoint x="1440" y="3176" as="targetPoint" />
+            <mxPoint x="990" y="3176" as="sourcePoint" />
+            <mxPoint x="1530" y="3176" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1221" value="random mask" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=60;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
