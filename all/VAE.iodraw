@@ -175,6 +175,12 @@
         <mxCell id="3yfUWfzH2KHvVlx3le70-58" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=#7D9BE5;" vertex="1" parent="1">
           <mxGeometry x="683.75" y="315" width="50" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="3yfUWfzH2KHvVlx3le70-59" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#B3B3B3;fillColor=#73FF9D;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3yfUWfzH2KHvVlx3le70-58" target="3yfUWfzH2KHvVlx3le70-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="278" as="sourcePoint" />
+            <mxPoint x="350" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
