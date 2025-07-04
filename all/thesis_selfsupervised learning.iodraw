@@ -1316,7 +1316,7 @@
           <mxGeometry x="1680" y="3106.25" width="600" height="77.5" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1224" value="MCAR / MAR / MNAR" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=60;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
-          <mxGeometry x="2515" y="3205" width="600" height="100" as="geometry" />
+          <mxGeometry x="1700" y="3250" width="600" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
