@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="24.7.17">
   <diagram id="EE_fNQLQU6LWkINdDjPs" name="第 1 页">
-    <mxGraphModel dx="7956" dy="4353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="4562" dy="2177" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1493,10 +1493,10 @@
           <mxGeometry x="30" y="6547" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1355" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EF767A;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="6377" width="240" height="110" as="geometry" />
+          <mxGeometry x="1030" y="6377" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1356" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EF767A;strokeWidth=3;fillStyle=zigzag-line;strokeColor=#EF767A;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="6547" width="240" height="110" as="geometry" />
+          <mxGeometry x="1030" y="6547" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1357" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7D9BE5;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="2890" y="6377.5" width="240" height="110" as="geometry" />
@@ -1511,10 +1511,10 @@
           <mxGeometry x="305" y="6540" width="485" height="125" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1361" value="observations from random mask" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=60;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
-          <mxGeometry x="1720" y="6370" width="910" height="125" as="geometry" />
+          <mxGeometry x="1300" y="6370" width="910" height="125" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1362" value="missing from random mask" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=60;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
-          <mxGeometry x="1720" y="6540" width="940" height="125" as="geometry" />
+          <mxGeometry x="1300" y="6540" width="940" height="125" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1363" value="observations from missing mechanism" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=60;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
           <mxGeometry x="3150" y="6370" width="1080" height="125" as="geometry" />
