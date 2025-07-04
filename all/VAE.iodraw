@@ -7,7 +7,7 @@
         <mxCell id="3yfUWfzH2KHvVlx3le70-6" value="&lt;span style=&quot;color: rgb(232, 62, 140); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;$$\sqrt{3x-1}+(1+x)^2$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-10" y="20" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3yfUWfzH2KHvVlx3le70-10" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="3yfUWfzH2KHvVlx3le70-10" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="115" y="170" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-11" value="" style="triangle;whiteSpace=wrap;html=1;rounded=0;rotation=0;direction=north;" vertex="1" parent="1">
