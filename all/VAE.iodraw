@@ -211,6 +211,9 @@
         <mxCell id="3yfUWfzH2KHvVlx3le70-65" value="latent distribution" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="79.06" y="520" width="100.62" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="3yfUWfzH2KHvVlx3le70-66" value="latent distribution" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="89.06" y="530" width="100.62" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
