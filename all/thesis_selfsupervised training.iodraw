@@ -1522,8 +1522,8 @@
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1364" value="missing from missing mechanism" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=60;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
           <mxGeometry x="2598" y="6540" width="950" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="Qy-mN9d_JIgyYBizsppX-1365" value="observations from random mask" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=60;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="6170" width="910" height="125" as="geometry" />
+        <mxCell id="Qy-mN9d_JIgyYBizsppX-1365" value="legend" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=60;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="6170" width="270" height="125" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
