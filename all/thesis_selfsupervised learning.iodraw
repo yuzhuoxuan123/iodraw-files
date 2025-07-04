@@ -1285,7 +1285,7 @@
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1212" value="raw missing" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
           <mxGeometry x="480" y="3502.5" width="600" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="Qy-mN9d_JIgyYBizsppX-1213" value="observations" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
+        <mxCell id="Qy-mN9d_JIgyYBizsppX-1213" value="observations from random mask" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
           <mxGeometry x="480" y="3680" width="600" height="125" as="geometry" />
         </mxCell>
       </root>
