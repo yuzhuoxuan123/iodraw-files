@@ -1493,10 +1493,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1351" value="missing mechanism" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=60;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
-          <mxGeometry x="950" y="5760" width="600" height="77.5" as="geometry" />
+          <mxGeometry x="964" y="5760" width="600" height="77.5" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1352" value="MCAR / MAR / MNAR" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=60;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
-          <mxGeometry x="940" y="5881.75" width="600" height="80" as="geometry" />
+          <mxGeometry x="954" y="5881.75" width="600" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
