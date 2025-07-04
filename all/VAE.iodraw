@@ -80,7 +80,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3yfUWfzH2KHvVlx3le70-26" value="" style="endArrow=none;html=1;rounded=1;curved=0;strokeWidth=2;strokeColor=#7D9BE5;" edge="1" parent="1">
+        <mxCell id="3yfUWfzH2KHvVlx3le70-26" value="" style="endArrow=none;html=1;rounded=1;curved=0;strokeWidth=2;strokeColor=#159FD7;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="290" as="sourcePoint" />
             <mxPoint x="340" y="390" as="targetPoint" />
