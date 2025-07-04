@@ -1297,10 +1297,10 @@
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1216" value="missing from missing mechanism" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
           <mxGeometry x="2940" y="4302.5" width="1625" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="Qy-mN9d_JIgyYBizsppX-1220" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=6;" edge="1" parent="1">
+        <mxCell id="Qy-mN9d_JIgyYBizsppX-1220" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=14;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="930" y="3270" as="sourcePoint" />
-            <mxPoint x="1190" y="3590" as="targetPoint" />
+            <mxPoint x="1470" y="3280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
