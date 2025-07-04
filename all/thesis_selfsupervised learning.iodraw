@@ -1277,7 +1277,7 @@
           <mxGeometry x="270" y="3106" width="600" height="125" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1206" value="self-supervised training" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
-          <mxGeometry x="1555" y="3106" width="940" height="125" as="geometry" />
+          <mxGeometry x="1547" y="3106" width="940" height="125" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1209" value="testing" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
           <mxGeometry x="3340" y="3106" width="380" height="125" as="geometry" />
