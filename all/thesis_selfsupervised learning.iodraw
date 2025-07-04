@@ -1303,8 +1303,8 @@
             <mxPoint x="1470" y="3270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qy-mN9d_JIgyYBizsppX-1221" value="raw data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
-          <mxGeometry x="310" y="3210" width="600" height="125" as="geometry" />
+        <mxCell id="Qy-mN9d_JIgyYBizsppX-1221" value="raw data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=79;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
+          <mxGeometry x="900" y="3300" width="600" height="125" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
