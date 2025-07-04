@@ -1103,10 +1103,10 @@
           <mxGeometry x="115" y="3510" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1104" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EF767A;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="115" y="3680" width="240" height="110" as="geometry" />
+          <mxGeometry x="1150" y="3332.5" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1105" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EF767A;strokeWidth=3;fillStyle=zigzag-line;strokeColor=#EF767A;" vertex="1" parent="1">
-          <mxGeometry x="115" y="3850" width="240" height="110" as="geometry" />
+          <mxGeometry x="1150" y="3502.5" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1106" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7D9BE5;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="115" y="4020" width="240" height="110" as="geometry" />
@@ -1286,10 +1286,10 @@
           <mxGeometry x="480" y="3502.5" width="600" height="125" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1213" value="observations from random mask" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
-          <mxGeometry x="480" y="3672.5" width="1200" height="125" as="geometry" />
+          <mxGeometry x="1515" y="3325" width="1200" height="125" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1214" value="missing from random mask" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
-          <mxGeometry x="480" y="3842.5" width="1200" height="125" as="geometry" />
+          <mxGeometry x="1515" y="3495" width="1200" height="125" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1215" value="observations from missing mechanism" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
           <mxGeometry x="480" y="4012.5" width="1625" height="125" as="geometry" />
