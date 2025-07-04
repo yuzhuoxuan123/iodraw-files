@@ -1507,8 +1507,8 @@
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1359" value="observations from raw data" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=60;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
           <mxGeometry x="310" y="6370" width="800" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="Qy-mN9d_JIgyYBizsppX-1360" value="raw missing" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=60;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
-          <mxGeometry x="305" y="6540" width="485" height="125" as="geometry" />
+        <mxCell id="Qy-mN9d_JIgyYBizsppX-1360" value="missing from raw data" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=60;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
+          <mxGeometry x="305" y="6540" width="705" height="125" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1361" value="observations from random mask" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=60;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
           <mxGeometry x="1720" y="6370" width="910" height="125" as="geometry" />
