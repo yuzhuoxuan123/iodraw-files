@@ -1073,7 +1073,7 @@
           <mxGeometry x="720" y="2530" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1094" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#48C0AA;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="720" y="2750" width="240" height="110" as="geometry" />
+          <mxGeometry x="720" y="2640" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1095" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#48C0AA;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="720" y="2860" width="240" height="110" as="geometry" />
@@ -1118,7 +1118,7 @@
           <mxGeometry x="480" y="2640" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1109" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#48C0AA;strokeWidth=3;fillStyle=zigzag-line;strokeColor=#48C0AA;" vertex="1" parent="1">
-          <mxGeometry x="720" y="2640" width="240" height="110" as="geometry" />
+          <mxGeometry x="490" y="2650" width="240" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
