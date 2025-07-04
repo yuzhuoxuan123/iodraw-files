@@ -172,6 +172,9 @@
         <mxCell id="3yfUWfzH2KHvVlx3le70-56" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeColor=#7D9BE5;" vertex="1" parent="1">
           <mxGeometry x="330" y="330" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="3yfUWfzH2KHvVlx3le70-58" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=#7D9BE5;" vertex="1" parent="1">
+          <mxGeometry x="683.75" y="315" width="50" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
