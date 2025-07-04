@@ -215,7 +215,10 @@
           <mxGeometry x="470" y="440" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-68" value="decoding" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="457.35" y="520" width="102.65" height="30" as="geometry" />
+          <mxGeometry x="493.68" y="520" width="102.65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3yfUWfzH2KHvVlx3le70-69" value="reconstructed data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="657.43" y="520" width="152.57" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
