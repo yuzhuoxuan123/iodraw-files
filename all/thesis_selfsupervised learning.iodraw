@@ -1308,9 +1308,12 @@
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1222" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=5;curved=0;shadow=0;endFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2660" y="3270" as="sourcePoint" />
+            <mxPoint x="2550" y="3270" as="sourcePoint" />
             <mxPoint x="3200" y="3270" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Qy-mN9d_JIgyYBizsppX-1223" value="missing mechanism" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=60;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
+          <mxGeometry x="2630" y="3130" width="600" height="125" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
