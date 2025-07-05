@@ -238,14 +238,11 @@
         <mxCell id="3yfUWfzH2KHvVlx3le70-78" value="" style="triangle;whiteSpace=wrap;html=1;rounded=1;arcSize=50;direction=north;strokeColor=none;fillColor=#EF767A;opacity=50;" vertex="1" parent="3yfUWfzH2KHvVlx3le70-79">
           <mxGeometry width="65" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="3yfUWfzH2KHvVlx3le70-82" value="" style="group;strokeColor=default;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="100" y="370" width="210" height="40" as="geometry" />
+        <mxCell id="3yfUWfzH2KHvVlx3le70-80" value="Assume" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="730" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3yfUWfzH2KHvVlx3le70-80" value="Assume:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;strokeColor=none;" vertex="1" parent="3yfUWfzH2KHvVlx3le70-82">
-          <mxGeometry width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3yfUWfzH2KHvVlx3le70-81" value="$$\mathbf{z} \sim \mathcal{N}(\mathbf{0},\mathbf{I})$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;strokeColor=none;" vertex="1" parent="3yfUWfzH2KHvVlx3le70-82">
-          <mxGeometry x="80" width="130" height="40" as="geometry" />
+        <mxCell id="3yfUWfzH2KHvVlx3le70-81" value="$$\mathbf{z} \sim \mathcal{N}(\mathbf{0},\mathbf{I})$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="730" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
