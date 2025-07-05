@@ -239,7 +239,7 @@
           <mxGeometry width="65" height="55" as="geometry" />
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-80" value="Assume: gaussian" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="57.27" y="400" width="155.47" height="30" as="geometry" />
+          <mxGeometry x="51.650000000000006" y="400" width="155.47" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
