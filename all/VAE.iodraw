@@ -606,7 +606,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-167" value="sampled gaussian noise $$\boldsymbol{\epsilon}\sim\mathcal{N}(\mathbf{0},\mathbf{I})$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-380" y="1520" width="161.92" height="60" as="geometry" />
+          <mxGeometry x="-401.92" y="1521" width="161.92" height="39" as="geometry" />
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-169" value="" style="endArrow=classic;html=1;rounded=0;spacing=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
