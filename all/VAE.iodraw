@@ -738,7 +738,13 @@
           <mxGeometry x="-364.58000000000004" y="1720" width="120" height="170.31" as="geometry" />
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-212" value="gaussian noise to introduce randomness" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="-574.23" y="1880" width="188.47" height="50" as="geometry" />
+          <mxGeometry x="-574.24" y="1884.35" width="188.47" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3yfUWfzH2KHvVlx3le70-213" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.501;exitY=-0.003;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;spacing=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-570" y="1815" as="sourcePoint" />
+            <mxPoint x="-490" y="1815" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
