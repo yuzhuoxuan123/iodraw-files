@@ -454,9 +454,6 @@
             <mxPoint x="627.1" y="815" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3yfUWfzH2KHvVlx3le70-128" value="&lt;div style=&quot;text-align: left; font-size: 17px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;&lt;font face=&quot;SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace&quot; style=&quot;font-size: 17px;&quot;&gt;$$q_\phi(\mathbf{z}\mid\mathbf{x}_0^\mathrm{co})$$&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=17;fillColor=#D5E8D4;opacity=60;" vertex="1" parent="1">
-          <mxGeometry x="85.46000000000001" y="1105" width="121.64" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-129" value="&lt;div style=&quot;text-align: left; font-size: 17px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;&lt;font face=&quot;SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace&quot; style=&quot;font-size: 17px;&quot;&gt;$$\mathbf{x}_0^\mathrm{co}$$&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="-81.25" y="955" width="57.5" height="60" as="geometry" />
         </mxCell>
@@ -511,9 +508,6 @@
         <mxCell id="3yfUWfzH2KHvVlx3le70-142" value="Assume: gaussian" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="77.1" y="915" width="155.47" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3yfUWfzH2KHvVlx3le70-144" value="Target" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="-12.27000000000001" y="1120" width="82.81" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-146" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="3yfUWfzH2KHvVlx3le70-137" target="3yfUWfzH2KHvVlx3le70-130">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-13.900000000000006" y="995" as="sourcePoint" />
@@ -537,6 +531,15 @@
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-143" value="Hard to calculate" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="3yfUWfzH2KHvVlx3le70-148">
           <mxGeometry y="13.6099999999999" width="110" height="42.78" as="geometry" />
+        </mxCell>
+        <mxCell id="3yfUWfzH2KHvVlx3le70-149" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-5.710000000000011" y="1105" width="212.81000000000003" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3yfUWfzH2KHvVlx3le70-128" value="&lt;div style=&quot;text-align: left; font-size: 17px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;&lt;font face=&quot;SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace&quot; style=&quot;font-size: 17px;&quot;&gt;$$q_\phi(\mathbf{z}\mid\mathbf{x}_0^\mathrm{co})$$&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=17;fillColor=none;opacity=60;" vertex="1" parent="3yfUWfzH2KHvVlx3le70-149">
+          <mxGeometry x="91.17000000000002" width="121.64" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3yfUWfzH2KHvVlx3le70-144" value="Target" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="3yfUWfzH2KHvVlx3le70-149">
+          <mxGeometry y="15" width="82.81" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
