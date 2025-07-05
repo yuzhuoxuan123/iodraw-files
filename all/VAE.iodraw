@@ -684,7 +684,7 @@
           <mxGeometry x="-406.5" y="1260" width="146.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-194" value="MSE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;strokeColor=none;fillColor=#e1d5e7;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="-650" y="1600" width="123.5" height="30" as="geometry" />
+          <mxGeometry x="-650" y="1599" width="123.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-195" value="" style="endArrow=classic;html=1;rounded=1;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="3yfUWfzH2KHvVlx3le70-152" target="3yfUWfzH2KHvVlx3le70-194">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -705,7 +705,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-198" value="reconstruction loss" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fillColor=none;strokeColor=none;fontColor=#EF767A;" vertex="1" parent="1">
-          <mxGeometry x="-661.5" y="1570" width="146.5" height="30" as="geometry" />
+          <mxGeometry x="-661.5" y="1569" width="146.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
