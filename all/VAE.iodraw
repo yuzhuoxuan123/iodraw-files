@@ -382,6 +382,9 @@
         <mxCell id="3yfUWfzH2KHvVlx3le70-107" value="&lt;div&gt;$$&lt;span style=&quot;background-color: initial;&quot;&gt;p(z\mid\boldsymbol{x})=\frac{p(z,\boldsymbol{x})}{p(\boldsymbol{x})}=\frac{p(\boldsymbol{x}\mid z)p(z)}{\int_zp(\boldsymbol{x}\mid z)p(z)dz}&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;$$&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="31.25" y="1040" width="790" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="3yfUWfzH2KHvVlx3le70-108" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;$$&lt;/span&gt;&lt;span style=&quot;text-wrap-mode: nowrap; background-color: initial;&quot;&gt;p(z\mid\boldsymbol{x})=\frac{p(z,\boldsymbol{x})}{p(\boldsymbol{x})}=\frac{p(\boldsymbol{x}\mid z)p(z)}{\int_zp(\boldsymbol{x}\mid z)p(z)dz}&lt;/span&gt;&lt;span style=&quot;text-wrap-mode: nowrap; background-color: initial;&quot;&gt;$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="970" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
