@@ -644,7 +644,7 @@
             <mxPoint x="-357" y="1442.62" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3yfUWfzH2KHvVlx3le70-178" value="encoder&lt;div&gt;&lt;span style=&quot;font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; text-align: left;&quot;&gt;$$q_\phi(\mathbf{z}\mid\mathbf{x}_0^\mathrm{co})$$&lt;/span&gt;&lt;/div&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;fontSize=17;fillColor=#E4B112;gradientColor=none;gradientDirection=radial;opacity=50;strokeColor=none;size=35.159999999999854;flipV=0;flipH=1;" vertex="1" parent="1">
+        <mxCell id="3yfUWfzH2KHvVlx3le70-178" value="decoder&lt;div&gt;&lt;span style=&quot;font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; text-align: left;&quot;&gt;$$q_\phi(\mathbf{z}\mid\mathbf{x}_0^\mathrm{co})$$&lt;/span&gt;&lt;/div&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;fontSize=17;fillColor=#E4B112;gradientColor=none;gradientDirection=radial;opacity=50;strokeColor=none;size=35.159999999999854;flipV=0;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="-151.25" y="1304.84" width="120" height="170.31" as="geometry" />
         </mxCell>
       </root>
