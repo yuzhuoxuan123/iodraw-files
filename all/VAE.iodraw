@@ -636,7 +636,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-174" value="$$\mathbf{z}$$" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="1420" width="90" height="40" as="geometry" />
+          <mxGeometry x="-170" y="1420" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
