@@ -770,7 +770,7 @@
         <mxCell id="3yfUWfzH2KHvVlx3le70-227" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://spaces.ac.cn/usr/uploads/2018/03/3543425351.png;" vertex="1" parent="1">
           <mxGeometry x="-787" y="1770" width="374" height="406" as="geometry" />
         </mxCell>
-        <mxCell id="3yfUWfzH2KHvVlx3le70-228" value="non-differentiable" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="3yfUWfzH2KHvVlx3le70-228" value="non-differentiable:" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-224.86" y="2050" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-229" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;Inter, -apple-system, system-ui, Segoe UI, SF Pro SC, SF Pro Display, SF Pro Icons, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Helvetica Neue, Helvetica, Arial, sans-serif&quot; color=&quot;#1c1f23&quot;&gt;&lt;span style=&quot;white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;$$\mathcal{N}(\boldsymbol{\mu}, \boldsymbol{\sigma}^2)$$&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
@@ -785,7 +785,7 @@
             <mxPoint x="210" y="2076" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3yfUWfzH2KHvVlx3le70-232" value="differentiable" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="3yfUWfzH2KHvVlx3le70-232" value="differentiable:" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-224.86" y="2140" width="210" height="50" as="geometry" />
         </mxCell>
       </root>
