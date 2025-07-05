@@ -774,7 +774,7 @@
           <mxGeometry x="-224.86" y="2050" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-229" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;Inter, -apple-system, system-ui, Segoe UI, SF Pro SC, SF Pro Display, SF Pro Icons, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Helvetica Neue, Helvetica, Arial, sans-serif&quot; color=&quot;#1c1f23&quot;&gt;&lt;span style=&quot;white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;$$\mathcal{N}(\boldsymbol{\mu}, \boldsymbol{\sigma}^2)$$&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="27.14" y="2020" width="172.86" height="70" as="geometry" />
+          <mxGeometry x="25.89" y="2030" width="104.11" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
