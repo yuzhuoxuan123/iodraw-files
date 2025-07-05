@@ -506,7 +506,7 @@
           <mxGeometry x="542.47" y="950" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-140" value="decoding" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="546.1500000000001" y="1030" width="102.65" height="30" as="geometry" />
+          <mxGeometry x="542.4700000000001" y="1030" width="102.65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-141" value="reconstructed data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="659.9999999999999" y="1030" width="152.57" height="30" as="geometry" />
