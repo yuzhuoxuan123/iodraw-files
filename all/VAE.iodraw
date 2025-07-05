@@ -792,7 +792,7 @@
           <mxGeometry x="-5.710000000000036" y="2151" width="161.92" height="39" as="geometry" />
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-234" value="reparameterization" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="142.78" y="1515.15" width="127.22" height="30" as="geometry" />
+          <mxGeometry x="142.78" y="1510" width="127.22" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
