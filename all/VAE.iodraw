@@ -683,10 +683,10 @@
         <mxCell id="3yfUWfzH2KHvVlx3le70-192" value="regularization loss" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fillColor=none;strokeColor=none;fontColor=#EF767A;" vertex="1" parent="1">
           <mxGeometry x="-406.5" y="1260" width="146.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3yfUWfzH2KHvVlx3le70-194" value="$$\sim\mathcal{N}(\mathbf{0},\mathbf{I})$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;strokeColor=none;fillColor=#D5E8D4;opacity=50;" vertex="1" parent="1">
+        <mxCell id="3yfUWfzH2KHvVlx3le70-194" value="MSE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;strokeColor=none;fillColor=#D5E8D4;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="-475" y="1600" width="123.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3yfUWfzH2KHvVlx3le70-195" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.17;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3yfUWfzH2KHvVlx3le70-152">
+        <mxCell id="3yfUWfzH2KHvVlx3le70-195" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3yfUWfzH2KHvVlx3le70-152" target="3yfUWfzH2KHvVlx3le70-194">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-500" y="1428" as="sourcePoint" />
             <mxPoint x="-499" y="1300" as="targetPoint" />
