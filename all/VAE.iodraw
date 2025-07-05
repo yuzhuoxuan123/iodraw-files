@@ -556,6 +556,9 @@
         <mxCell id="3yfUWfzH2KHvVlx3le70-152" value="&lt;div style=&quot;text-align: left; font-size: 17px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;&lt;font face=&quot;SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace&quot; style=&quot;font-size: 17px;&quot;&gt;$$\mathbf{x}_0^\mathrm{co}$$&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="-800" y="1360" width="57.5" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3yfUWfzH2KHvVlx3le70-153" value="encoder" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;fontSize=17;fillColor=#159FD7;gradientColor=none;gradientDirection=radial;opacity=50;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="45.22999999999999" y="773.75" width="70" height="82.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
