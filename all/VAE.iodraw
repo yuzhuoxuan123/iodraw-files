@@ -594,24 +594,27 @@
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-166" value="" style="endArrow=none;html=1;rounded=1;curved=0;strokeColor=#7D9BE5;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-548.36" y="1550" as="sourcePoint" />
-            <mxPoint x="-468.36" y="1550" as="targetPoint" />
+            <mxPoint x="-599.04" y="1550" as="sourcePoint" />
+            <mxPoint x="-519.04" y="1550" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-528.36" y="1540" />
-              <mxPoint x="-518.36" y="1530" />
-              <mxPoint x="-508.36" y="1510" />
-              <mxPoint x="-498.36" y="1530" />
-              <mxPoint x="-488.36" y="1540" />
+              <mxPoint x="-579.04" y="1540" />
+              <mxPoint x="-569.04" y="1530" />
+              <mxPoint x="-559.04" y="1510" />
+              <mxPoint x="-549.04" y="1530" />
+              <mxPoint x="-539.04" y="1540" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-167" value="sampled gaussian noise $$\boldsymbol{\epsilon}\sim\mathcal{N}(\mathbf{0},\mathbf{I})$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-590.9599999999999" y="1560" width="161.92" height="50" as="geometry" />
+          <mxGeometry x="-639.9999999999999" y="1560" width="161.92" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="3yfUWfzH2KHvVlx3le70-168" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;spacing=0;" edge="1" parent="1" target="3yfUWfzH2KHvVlx3le70-162">
+        <mxCell id="3yfUWfzH2KHvVlx3le70-168" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;spacing=0;" edge="1" parent="1" source="3yfUWfzH2KHvVlx3le70-167" target="3yfUWfzH2KHvVlx3le70-162">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-570" y="1443" as="sourcePoint" />
             <mxPoint x="-520" y="1443" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-440" y="1585" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
