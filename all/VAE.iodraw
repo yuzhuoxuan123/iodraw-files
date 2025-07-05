@@ -681,7 +681,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-192" value="regularization loss" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="-650" y="1230" width="140.94" height="30" as="geometry" />
+          <mxGeometry x="-538.72" y="1220" width="140.94" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
