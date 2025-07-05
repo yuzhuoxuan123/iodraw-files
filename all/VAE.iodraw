@@ -229,8 +229,8 @@
             <mxPoint x="580" y="278" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3yfUWfzH2KHvVlx3le70-77" value="" style="triangle;whiteSpace=wrap;html=1;rounded=1;arcSize=50;direction=north;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="672.5" y="282.5" width="65" height="55" as="geometry" />
+        <mxCell id="3yfUWfzH2KHvVlx3le70-77" value="" style="triangle;whiteSpace=wrap;html=1;rounded=1;arcSize=50;direction=north;strokeColor=none;fillColor=#7D9BE5;" vertex="1" parent="1">
+          <mxGeometry x="672.5" y="325" width="65" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
