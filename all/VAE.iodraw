@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="24.7.17">
   <diagram id="EE_fNQLQU6LWkINdDjPs" name="第 1 页">
-    <mxGraphModel dx="1958" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2281" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -239,13 +239,13 @@
           <mxGeometry width="65" height="55" as="geometry" />
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-82" value="" style="group;strokeColor=default;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-100" y="730" width="210" height="30" as="geometry" />
+          <mxGeometry x="100" y="370" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-80" value="Assume:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;strokeColor=none;" vertex="1" parent="3yfUWfzH2KHvVlx3le70-82">
-          <mxGeometry width="80" height="30" as="geometry" />
+          <mxGeometry width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-81" value="$$\mathbf{z} \sim \mathcal{N}(\mathbf{0},\mathbf{I})$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;strokeColor=none;" vertex="1" parent="3yfUWfzH2KHvVlx3le70-82">
-          <mxGeometry x="80" width="130" height="30" as="geometry" />
+          <mxGeometry x="80" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
