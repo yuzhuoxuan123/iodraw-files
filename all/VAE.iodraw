@@ -770,8 +770,8 @@
         <mxCell id="3yfUWfzH2KHvVlx3le70-227" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://spaces.ac.cn/usr/uploads/2018/03/3543425351.png;" vertex="1" parent="1">
           <mxGeometry x="-787" y="1770" width="374" height="406" as="geometry" />
         </mxCell>
-        <mxCell id="3yfUWfzH2KHvVlx3le70-228" value="Non-def" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="-214.86" y="2070" width="100" height="30" as="geometry" />
+        <mxCell id="3yfUWfzH2KHvVlx3le70-228" value="non-differentiable" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="2070" width="270" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
