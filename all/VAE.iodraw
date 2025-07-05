@@ -694,7 +694,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-194" value="$$\sim\mathcal{N}(\mathbf{0},\mathbf{I})$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;strokeColor=none;fillColor=#D5E8D4;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="-493.5" y="1620" width="123.5" height="30" as="geometry" />
+          <mxGeometry x="-520" y="1270" width="123.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
