@@ -238,8 +238,8 @@
         <mxCell id="3yfUWfzH2KHvVlx3le70-78" value="" style="triangle;whiteSpace=wrap;html=1;rounded=1;arcSize=50;direction=north;strokeColor=none;fillColor=#EF767A;opacity=50;" vertex="1" parent="3yfUWfzH2KHvVlx3le70-79">
           <mxGeometry width="65" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="3yfUWfzH2KHvVlx3le70-80" value="latent distribution" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="74.53" y="530" width="140.94" height="30" as="geometry" />
+        <mxCell id="3yfUWfzH2KHvVlx3le70-80" value="Assume: gaussian" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="74.53" y="390" width="140.94" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
