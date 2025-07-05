@@ -665,7 +665,7 @@
             <mxPoint x="-176.25000000000023" y="1402.0725" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3yfUWfzH2KHvVlx3le70-186" value="$$\sim\mathcal{N}(\mathbf{0},\mathbf{I})$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="3yfUWfzH2KHvVlx3le70-186" value="$$\sim\mathcal{N}(\mathbf{0},\mathbf{I})$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;strokeColor=none;fillColor=#D5E8D4;" vertex="1" parent="1">
           <mxGeometry x="-540" y="1260" width="161.92" height="60" as="geometry" />
         </mxCell>
       </root>
