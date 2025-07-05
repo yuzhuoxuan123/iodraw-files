@@ -680,7 +680,7 @@
             <mxPoint x="-416" y="1301" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3yfUWfzH2KHvVlx3le70-192" value="regularization loss" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="3yfUWfzH2KHvVlx3le70-192" value="regularization loss" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-538.72" y="1220" width="140.94" height="30" as="geometry" />
         </mxCell>
       </root>
