@@ -230,7 +230,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-77" value="" style="triangle;whiteSpace=wrap;html=1;rounded=1;arcSize=50;direction=north;" vertex="1" parent="1">
-          <mxGeometry x="615" y="355" width="50" height="40" as="geometry" />
+          <mxGeometry x="615" y="355" width="65" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
