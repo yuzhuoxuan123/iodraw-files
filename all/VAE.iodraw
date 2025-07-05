@@ -786,7 +786,7 @@
           <mxGeometry x="-224.86" y="2135" width="164.86" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-234" value="reparameterization" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="142.78" y="1515.15" width="127.22" height="30" as="geometry" />
+          <mxGeometry x="205.47" y="1415.5" width="127.22" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-236" value="$$\boldsymbol{\epsilon}\sim\mathcal{N}(\mathbf{0},\mathbf{I})$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="-66.03" y="2145.5" width="120" height="39" as="geometry" />
