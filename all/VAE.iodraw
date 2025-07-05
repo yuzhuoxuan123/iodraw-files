@@ -605,8 +605,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3yfUWfzH2KHvVlx3le70-167" value="sampled latent representation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="287.1" y="1032.5" width="155.31" height="55" as="geometry" />
+        <mxCell id="3yfUWfzH2KHvVlx3le70-167" value="sampled gaussian noise" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="-587.65" y="1560" width="155.31" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
