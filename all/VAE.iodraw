@@ -656,7 +656,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3yfUWfzH2KHvVlx3le70-182" value="&lt;div style=&quot;text-align: left; font-size: 17px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;&lt;font face=&quot;SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace&quot; style=&quot;font-size: 17px;&quot;&gt;$$\mathbf{x}_0^\mathrm{ta}$$&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fillColor=#e1d5e7;strokeColor=none;opacity=50;" vertex="1" parent="1">
+        <mxCell id="3yfUWfzH2KHvVlx3le70-182" value="&lt;div style=&quot;text-align: left; font-size: 17px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;&lt;font face=&quot;SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace&quot; style=&quot;font-size: 17px;&quot;&gt;$$\mathbf{x}_0^\mathrm{ta}$$&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fillColor=#e1d5e7;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-85" y="1363" width="57.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-183" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;spacing=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3yfUWfzH2KHvVlx3le70-178" target="3yfUWfzH2KHvVlx3le70-182">
