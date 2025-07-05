@@ -379,8 +379,8 @@
             <mxPoint x="180" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3yfUWfzH2KHvVlx3le70-107" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="565" y="898" width="50" height="30" as="geometry" />
+        <mxCell id="3yfUWfzH2KHvVlx3le70-107" value="&lt;div&gt;$$\begin{aligned}&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;amp; p(z\mid\boldsymbol{x})=\frac{p(z,\boldsymbol{x})}{p(\boldsymbol{x})}=\frac{p(\boldsymbol{x}\mid z)p(z)}{\int_zp(\boldsymbol{x}\mid z)p(z)dz} \\&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;amp; \color{red}{\mathrm{hard}}&lt;/div&gt;&lt;div&gt;\end{aligned}$$&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="875" width="790" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
