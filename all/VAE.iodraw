@@ -792,7 +792,7 @@
           <mxGeometry x="142.78" y="1515.15" width="127.22" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-236" value="$$\boldsymbol{\epsilon}\sim\mathcal{N}(\mathbf{0},\mathbf{I})$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="8.080000000000013" y="2151" width="161.92" height="39" as="geometry" />
+          <mxGeometry x="25.89" y="2145.5" width="120" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
