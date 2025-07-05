@@ -707,6 +707,9 @@
         <mxCell id="3yfUWfzH2KHvVlx3le70-198" value="reconstruction loss" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fillColor=none;strokeColor=none;fontColor=#EF767A;" vertex="1" parent="1">
           <mxGeometry x="-661.5" y="1536" width="146.5" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="3yfUWfzH2KHvVlx3le70-199" value="latent distribution" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="85.80999999999997" y="1045" width="140.94" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
