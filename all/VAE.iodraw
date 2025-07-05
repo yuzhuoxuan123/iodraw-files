@@ -533,13 +533,13 @@
           <mxGeometry y="13.6099999999999" width="110" height="42.78" as="geometry" />
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-149" value="" style="group;fillColor=#D5E8D4;opacity=70;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-5.710000000000011" y="1105" width="212.81000000000003" height="60" as="geometry" />
+          <mxGeometry x="-14.06000000000001" y="1105" width="212.81000000000003" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-128" value="&lt;div style=&quot;text-align: left; font-size: 17px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;&lt;font face=&quot;SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace&quot; style=&quot;font-size: 17px;&quot;&gt;$$q_\phi(\mathbf{z}\mid\mathbf{x}_0^\mathrm{co})$$&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=17;fillColor=none;opacity=60;" vertex="1" parent="3yfUWfzH2KHvVlx3le70-149">
           <mxGeometry x="91.17000000000002" width="121.64" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-144" value="Target" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="3yfUWfzH2KHvVlx3le70-149">
-          <mxGeometry y="15" width="82.81" height="30" as="geometry" />
+          <mxGeometry x="21.17" y="15" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
