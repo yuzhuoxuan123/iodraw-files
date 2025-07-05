@@ -704,6 +704,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="3yfUWfzH2KHvVlx3le70-198" value="regularization loss" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fillColor=none;strokeColor=none;fontColor=#EF767A;" vertex="1" parent="1">
+          <mxGeometry x="-396.5" y="1270" width="146.5" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
