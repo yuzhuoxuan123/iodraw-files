@@ -108,6 +108,9 @@
             <mxGeometry x="490" y="520" width="440" height="30" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="kGUAkHhVCaLfEek3fLhH-46" value="Transition Probability Matrix" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="40" y="250" width="240" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
