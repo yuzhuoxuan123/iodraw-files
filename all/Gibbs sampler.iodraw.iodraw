@@ -207,7 +207,7 @@
         <mxCell id="kGUAkHhVCaLfEek3fLhH-80" value="$$P$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="250" y="240" width="37.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kGUAkHhVCaLfEek3fLhH-81" value="$$\pi^0 P=\pi$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="kGUAkHhVCaLfEek3fLhH-81" value="$$\pi^0 P=\pi^1$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="30" y="750" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
