@@ -32,7 +32,7 @@
           <mxGeometry x="30" y="140" width="480" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kGUAkHhVCaLfEek3fLhH-11" value="The conditional probability of the state at time A depends only on the previous state" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="570" y="100" width="300" height="30" as="geometry" />
+          <mxGeometry x="570" y="100" width="430" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
