@@ -311,8 +311,8 @@
             <mxPoint x="800" y="1200.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kGUAkHhVCaLfEek3fLhH-127" value="&lt;div&gt;We can say that the Markov chain achieved stable distribution&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="827.11" y="1185" width="495.79" height="30" as="geometry" />
+        <mxCell id="kGUAkHhVCaLfEek3fLhH-127" value="&lt;span style=&quot;color: rgb(25, 27, 31); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: medium; background-color: rgb(255, 255, 255);&quot;&gt;Detailed balance condition&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="827.11" y="1185" width="202.89" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
