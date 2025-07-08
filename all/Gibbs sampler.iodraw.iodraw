@@ -105,8 +105,8 @@
             <mxGeometry x="490" y="520" width="440" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="kGUAkHhVCaLfEek3fLhH-46" value="&lt;div&gt;Markov chain convergence&lt;/div&gt;&lt;div&gt;For irreducible, normally recurrent, and non periodic Markov chains, t&lt;span style=&quot;background-color: initial;&quot;&gt;here exists a stable distribution&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="30" y="580" width="580" height="70" as="geometry" />
+        <mxCell id="kGUAkHhVCaLfEek3fLhH-46" value="&lt;div&gt;Markov chain convergence&lt;/div&gt;&lt;div&gt;For irreducible, normally recurrent, and non periodic Markov chains, t&lt;span style=&quot;background-color: initial;&quot;&gt;here exists a stable distribution,&amp;nbsp; &amp;nbsp; &amp;nbsp; that&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="30" y="548.5" width="580" height="70" as="geometry" />
         </mxCell>
         <mxCell id="kGUAkHhVCaLfEek3fLhH-48" value="$$\pi$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="230" y="624" width="30" height="20" as="geometry" />
