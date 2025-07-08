@@ -344,7 +344,7 @@
         <mxCell id="kGUAkHhVCaLfEek3fLhH-136" value="is the joint distribution of a set of variables&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="222.53" y="1540" width="490" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kGUAkHhVCaLfEek3fLhH-137" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;$$x_1,x_2,...,x_{k-1},x_k...x_n$$&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="kGUAkHhVCaLfEek3fLhH-137" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;$$x_1,x_2,...,x_{k-1},x_k,x_{k-1}...x_n$$&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="549.92" y="1535" width="270.08" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kGUAkHhVCaLfEek3fLhH-138" value="Keeping all variables unchanged, only update the conditional distribution of&amp;nbsp; the&amp;nbsp; &amp;nbsp; th variable&amp;nbsp; &amp;nbsp; &amp;nbsp; , and it&#39;s dependents on the unchanged variables.&amp;nbsp;&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
@@ -358,6 +358,9 @@
         </mxCell>
         <mxCell id="kGUAkHhVCaLfEek3fLhH-143" value="$$k$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="599.97" y="1584" width="35.03" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kGUAkHhVCaLfEek3fLhH-145" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;$$x_1,x_2,...,x_{k-1},x_k,x_{k-1}...x_n$$&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="559.92" y="1545" width="270.08" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
