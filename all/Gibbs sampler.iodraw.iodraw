@@ -272,6 +272,9 @@
         <mxCell id="kGUAkHhVCaLfEek3fLhH-111" value="&lt;div&gt;We can say that the Markov chain achieved stable distribution&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="24.21" y="1241" width="715.79" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="kGUAkHhVCaLfEek3fLhH-112" value="$$\pi(i)P(i,j)=\pi(j)P(j,i)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="15.000000000000007" y="1271" width="220" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
