@@ -117,8 +117,8 @@
         <mxCell id="kGUAkHhVCaLfEek3fLhH-49" value="that fits:" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="312.5" y="624" width="147.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="kGUAkHhVCaLfEek3fLhH-50" value="$$\pi P=\pi$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="40" y="644" width="80" height="50" as="geometry" />
+        <mxCell id="kGUAkHhVCaLfEek3fLhH-50" value="$$\pi P=\pi$$" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="40" y="645" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kGUAkHhVCaLfEek3fLhH-51" value="$$\pi^0$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="30" y="695" width="40" height="30" as="geometry" />
@@ -207,7 +207,7 @@
         <mxCell id="kGUAkHhVCaLfEek3fLhH-80" value="$$P$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="250" y="240" width="37.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kGUAkHhVCaLfEek3fLhH-81" value="$$\pi^0 P=\pi^1$$" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="kGUAkHhVCaLfEek3fLhH-81" value="$$\pi^0 P=\pi^1, \pi^1 P=\pi^2$$" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="40" y="750" width="250" height="50" as="geometry" />
         </mxCell>
       </root>
