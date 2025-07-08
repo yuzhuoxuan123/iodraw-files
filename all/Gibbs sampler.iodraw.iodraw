@@ -186,8 +186,8 @@
             <mxPoint x="525" y="709.77" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kGUAkHhVCaLfEek3fLhH-71" value="&lt;div&gt;Marcov chain convergence&lt;/div&gt;&lt;div&gt;For irreducible, normally recurrent, and non periodic Markov chains, t&lt;span style=&quot;background-color: initial;&quot;&gt;here exists a unique stable distribution&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="40" y="590" width="580" height="70" as="geometry" />
+        <mxCell id="kGUAkHhVCaLfEek3fLhH-71" value="&lt;div&gt;Reach stable distribution after $$m$$ iterations&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="30" y="730" width="580" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
