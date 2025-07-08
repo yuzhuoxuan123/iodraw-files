@@ -317,6 +317,15 @@
         <mxCell id="kGUAkHhVCaLfEek3fLhH-128" value="$$\pi^{i}P(i,j)=\pi^{j}P(j,i)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="15.000000000000007" y="1390" width="220" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="kGUAkHhVCaLfEek3fLhH-129" value="$$\pi P=\pi$$" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="295" y="1390" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kGUAkHhVCaLfEek3fLhH-130" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="1410" as="sourcePoint" />
+            <mxPoint x="510" y="1360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
