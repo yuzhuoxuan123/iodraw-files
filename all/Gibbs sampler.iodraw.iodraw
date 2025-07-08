@@ -262,7 +262,7 @@
           <mxGeometry x="450" y="1165" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kGUAkHhVCaLfEek3fLhH-108" value="$$\pi(x)=\pi(x_1,x_2,...,x_n)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="34.21000000000001" y="860" width="220" height="50" as="geometry" />
+          <mxGeometry x="15.000000000000007" y="1190.5" width="220" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
