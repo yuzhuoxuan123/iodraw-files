@@ -1,20 +1,20 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="zxwvJ8QqBvNLKcDwU7yc">
-    <mxGraphModel dx="1131" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="814" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="kGUAkHhVCaLfEek3fLhH-1" value="$$\pi(x)=\pi(x_1,x_2,...,x_n)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="662" y="785" width="220" height="50" as="geometry" />
+          <mxGeometry x="662" y="860" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kGUAkHhVCaLfEek3fLhH-2" value="Define the joint distribution (stable state) of a set of variables&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="30" y="795" width="490" height="30" as="geometry" />
+          <mxGeometry x="30" y="870" width="490" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kGUAkHhVCaLfEek3fLhH-4" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;$$x_1,x_2,...,x_n$$&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="502" y="790" width="120" height="40" as="geometry" />
+          <mxGeometry x="502" y="865" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kGUAkHhVCaLfEek3fLhH-5" value="as" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="622" y="795" width="40" height="30" as="geometry" />
+          <mxGeometry x="622" y="870" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kGUAkHhVCaLfEek3fLhH-6" value="Markov chain: a random process of transitioning from one state to another state. The probability distribution of the next state can only be determined by the current state and is independent of any preceding events in the time series." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="30" y="10" width="600" height="70" as="geometry" />
@@ -202,10 +202,10 @@
           <mxGeometry x="602" y="695" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kGUAkHhVCaLfEek3fLhH-76" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; white-space-collapse: preserve; background-color: rgba(0, 0, 0, 0.04);&quot;&gt;$$\pi^m,\pi^{m+1},\pi^{m+2}\cdots\sim\pi(x)$$&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="30" y="830" width="247.5" height="55" as="geometry" />
+          <mxGeometry x="30" y="905" width="247.5" height="55" as="geometry" />
         </mxCell>
         <mxCell id="kGUAkHhVCaLfEek3fLhH-80" value="$$P$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="232.5" y="230" width="37.5" height="30" as="geometry" />
+          <mxGeometry x="250" y="240" width="37.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
