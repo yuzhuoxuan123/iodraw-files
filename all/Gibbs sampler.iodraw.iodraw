@@ -281,8 +281,8 @@
         <mxCell id="kGUAkHhVCaLfEek3fLhH-114" value="Probability of state" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="200" y="1271" width="310" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="kGUAkHhVCaLfEek3fLhH-115" value="&lt;div&gt;Reach stable distribution after&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;timesteps&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="310" y="705" width="390" height="30" as="geometry" />
+        <mxCell id="kGUAkHhVCaLfEek3fLhH-115" value="&lt;div&gt;reach stable distribution&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="370" y="912.5" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
