@@ -210,8 +210,8 @@
         <mxCell id="kGUAkHhVCaLfEek3fLhH-83" value="&lt;div&gt;after&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;timesteps&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="260" y="725" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kGUAkHhVCaLfEek3fLhH-84" value="$$\pi^0 P=\pi^1, \pi^1 P=\pi^2, \ldots$$" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="50" y="725" width="250" height="50" as="geometry" />
+        <mxCell id="kGUAkHhVCaLfEek3fLhH-84" value="$$\pi P=\pi$$" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="420" y="715" width="250" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
