@@ -204,9 +204,6 @@
         <mxCell id="kGUAkHhVCaLfEek3fLhH-76" value="$$\pi^m,\pi^{m+1}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="32.5" y="875" width="147.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kGUAkHhVCaLfEek3fLhH-77" value="$$\pi^m,\pi^{m+1}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="32.5" y="875" width="147.5" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
