@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="kGUAkHhVCaLfEek3fLhH-1" value="$$\pi(x)=\pi(x_1,x_2,...,x_n)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="30" y="925" width="220" height="50" as="geometry" />
+          <mxGeometry y="925" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kGUAkHhVCaLfEek3fLhH-2" value="Define the joint distribution (state) of a set of variables&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry y="895" width="430" height="30" as="geometry" />
@@ -110,6 +110,9 @@
         </UserObject>
         <mxCell id="kGUAkHhVCaLfEek3fLhH-46" value="&lt;div&gt;Marcov chain convergence&lt;/div&gt;&lt;div&gt;For irreducible, normally recurrent, and non periodic Markov chains:&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="30" y="580" width="580" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kGUAkHhVCaLfEek3fLhH-47" value="There exists a unique steady-state distribution π that satisfies:" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="220" y="710" width="360" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
