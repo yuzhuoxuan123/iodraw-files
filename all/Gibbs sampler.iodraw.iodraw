@@ -275,11 +275,17 @@
         <mxCell id="kGUAkHhVCaLfEek3fLhH-113" value="$$i\times$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="170" y="1275.75" width="30" height="19.5" as="geometry" />
         </mxCell>
-        <mxCell id="kGUAkHhVCaLfEek3fLhH-114" value="Transition probability from state&amp;nbsp; &amp;nbsp; &amp;nbsp; to" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="kGUAkHhVCaLfEek3fLhH-114" value="Transition probability from state&amp;nbsp; &amp;nbsp; &amp;nbsp;to" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="200" y="1271" width="310" height="29" as="geometry" />
         </mxCell>
         <mxCell id="kGUAkHhVCaLfEek3fLhH-115" value="&lt;div&gt;reach stable distribution&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="370" y="912.5" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kGUAkHhVCaLfEek3fLhH-117" value="$$i$$" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="442.5" y="1275.75" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kGUAkHhVCaLfEek3fLhH-118" value="$$j$$" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="487.5" y="1275.75" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
