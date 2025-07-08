@@ -264,6 +264,11 @@
         <mxCell id="kGUAkHhVCaLfEek3fLhH-108" value="$$\pi(x)=\pi(x_1,x_2,...,x_n)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="15.000000000000007" y="1190.5" width="220" height="50" as="geometry" />
         </mxCell>
+        <UserObject label="https://www.cheenta.com/monte-carlo-method-to-calculate-pi/" link="https://www.cheenta.com/monte-carlo-method-to-calculate-pi/" id="kGUAkHhVCaLfEek3fLhH-109">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="1530" y="1060" width="360" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
