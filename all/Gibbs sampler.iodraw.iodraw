@@ -68,10 +68,10 @@
           <mxGeometry x="252.5" y="330" width="35" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kGUAkHhVCaLfEek3fLhH-29" value="Bear" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="100" y="413" width="40" height="30" as="geometry" />
+          <mxGeometry x="100" y="420" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kGUAkHhVCaLfEek3fLhH-30" value="Stagnant" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="77.5" y="470" width="75" height="30" as="geometry" />
+          <mxGeometry x="77.5" y="480" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kGUAkHhVCaLfEek3fLhH-31" value="Stagnant" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="330" y="330" width="75" height="30" as="geometry" />
@@ -81,6 +81,9 @@
         </mxCell>
         <mxCell id="kGUAkHhVCaLfEek3fLhH-33" value="0.075" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="252.5" y="370" width="35" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kGUAkHhVCaLfEek3fLhH-34" value="0.075" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="350" y="370" width="35" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
