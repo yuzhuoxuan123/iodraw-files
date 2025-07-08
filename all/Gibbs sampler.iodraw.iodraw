@@ -117,6 +117,9 @@
         <mxCell id="kGUAkHhVCaLfEek3fLhH-49" value="that fits:" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="312.5" y="624" width="147.5" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="kGUAkHhVCaLfEek3fLhH-50" value="$$\pi(x)=\pi(x_1,x_2,...,x_n)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="10" y="935" width="220" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
