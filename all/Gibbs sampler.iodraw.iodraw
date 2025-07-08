@@ -269,7 +269,7 @@
             <mxGeometry x="1530" y="1060" width="360" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="kGUAkHhVCaLfEek3fLhH-110" value="$$\pi(i)P(i,j)=\pi(j)P(j,i)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="kGUAkHhVCaLfEek3fLhH-110" value="$$P(i,j)=\pi(j)P(j,i)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="252.5" y="1190.5" width="220" height="50" as="geometry" />
         </mxCell>
       </root>
