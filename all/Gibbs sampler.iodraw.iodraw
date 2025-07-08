@@ -174,7 +174,7 @@
             <mxPoint x="455" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kGUAkHhVCaLfEek3fLhH-68" value="$$...$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="kGUAkHhVCaLfEek3fLhH-68" value="$$\cdots$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="460" y="695" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kGUAkHhVCaLfEek3fLhH-69" value="$$\pi^m$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
@@ -198,7 +198,7 @@
             <mxPoint x="597" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kGUAkHhVCaLfEek3fLhH-75" value="$$...$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="kGUAkHhVCaLfEek3fLhH-75" value="$$\cdots$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="602" y="695" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kGUAkHhVCaLfEek3fLhH-76" value="$$\pi^m,\pi^{m+1}, \pi^{m+2}\cdots\sim$$" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
