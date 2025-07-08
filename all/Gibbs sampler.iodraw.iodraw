@@ -353,7 +353,7 @@
         <mxCell id="kGUAkHhVCaLfEek3fLhH-139" value="$$x_k$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="573.97" y="1584" width="35.03" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="kGUAkHhVCaLfEek3fLhH-141" value="$$\pi(x_i\mid x_{-i})$$" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="kGUAkHhVCaLfEek3fLhH-141" value="$$\pi(x_k\mid x_{-k})$$" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="10" y="1640" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
