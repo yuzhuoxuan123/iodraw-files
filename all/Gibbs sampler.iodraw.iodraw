@@ -201,7 +201,7 @@
         <mxCell id="kGUAkHhVCaLfEek3fLhH-75" value="$$...$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="602" y="695" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kGUAkHhVCaLfEek3fLhH-76" value="$$\pi^m,\pi^{m+1}, \pi^{m+2}\ndots\sim$$" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="kGUAkHhVCaLfEek3fLhH-76" value="$$\pi^m,\pi^{m+1}, \pi^{m+2}\cdots\sim$$" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="32.5" y="875" width="277.5" height="30" as="geometry" />
         </mxCell>
       </root>
