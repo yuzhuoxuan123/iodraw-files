@@ -46,8 +46,8 @@
         <mxCell id="kGUAkHhVCaLfEek3fLhH-17" value="State transition matrix" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="30" y="240" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kGUAkHhVCaLfEek3fLhH-18" value="Define a series of states for a variable" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="40" y="100" width="300" height="30" as="geometry" />
+        <mxCell id="kGUAkHhVCaLfEek3fLhH-18" value="state&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="70" y="302.5" width="300" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
