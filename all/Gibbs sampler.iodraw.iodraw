@@ -365,8 +365,8 @@
         <mxCell id="kGUAkHhVCaLfEek3fLhH-146" value="&lt;div&gt;where&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="394.5" y="1640" width="67.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kGUAkHhVCaLfEek3fLhH-148" value="&lt;div&gt;Gibbs sampler&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="12.530000000000001" y="1510" width="160" height="40" as="geometry" />
+        <mxCell id="kGUAkHhVCaLfEek3fLhH-148" value="&lt;div&gt;In the Markov chain, the current state is:&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="-2.53" y="1700" width="642.53" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
