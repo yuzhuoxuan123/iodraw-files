@@ -17,7 +17,10 @@
           <mxGeometry x="510" y="225" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kGUAkHhVCaLfEek3fLhH-6" value="Markov chain: a random process of transitioning from one state to another state. Tthe probability distribution of the next state can only be determined by the current state and is independent of any preceding events in the time series." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="30" y="30" width="600" height="100" as="geometry" />
+          <mxGeometry x="30" y="30" width="600" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kGUAkHhVCaLfEek3fLhH-7" value="Define the joint distribution of a set of variables&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="30" y="100" width="360" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
