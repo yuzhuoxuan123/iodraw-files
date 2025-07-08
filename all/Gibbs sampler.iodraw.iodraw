@@ -7,8 +7,8 @@
         <mxCell id="kGUAkHhVCaLfEek3fLhH-1" value="$$\pi(x)=\pi(x_1,x_2,...,x_n)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="140" y="110" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="kGUAkHhVCaLfEek3fLhH-2" value="Joint distribution of multi-variables&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="180" y="200" width="570" height="90" as="geometry" />
+        <mxCell id="kGUAkHhVCaLfEek3fLhH-2" value="Joint distribution of a set of variables&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="180" y="200" width="280" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
