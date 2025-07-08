@@ -150,7 +150,7 @@
         <mxCell id="kGUAkHhVCaLfEek3fLhH-60" value="$$...$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="240" y="695" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kGUAkHhVCaLfEek3fLhH-63" value="$$\pi^0$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="kGUAkHhVCaLfEek3fLhH-63" value="$$\pi^t$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="310" y="695" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kGUAkHhVCaLfEek3fLhH-64" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kGUAkHhVCaLfEek3fLhH-63">
