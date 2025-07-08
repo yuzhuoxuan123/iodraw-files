@@ -350,7 +350,7 @@
         <mxCell id="kGUAkHhVCaLfEek3fLhH-138" value="Keeping all variables unchanged, only update the conditional distribution of&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; , and it&#39;s dependents on the unchanged variables.&amp;nbsp;&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="8" y="1580" width="752" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="kGUAkHhVCaLfEek3fLhH-139" value="$$x_i$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="kGUAkHhVCaLfEek3fLhH-139" value="$$x_k$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="573.97" y="1584" width="35.03" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kGUAkHhVCaLfEek3fLhH-141" value="$$\pi(x_i\mid x_{-i})$$" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
