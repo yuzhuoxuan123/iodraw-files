@@ -350,8 +350,8 @@
         <mxCell id="kGUAkHhVCaLfEek3fLhH-138" value="Keeping all variables unchanged, except" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="8" y="1580" width="312" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kGUAkHhVCaLfEek3fLhH-139" value="$$\pi(x)=\pi(x_1,x_2,...,x_n)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="12.530000000000008" y="1540" width="220" height="50" as="geometry" />
+        <mxCell id="kGUAkHhVCaLfEek3fLhH-139" value="$$x_i$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="324.97" y="1570" width="220" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
