@@ -74,7 +74,7 @@
           <mxGeometry x="77.5" y="480" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kGUAkHhVCaLfEek3fLhH-31" value="Stagnant" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="330" y="330" width="75" height="30" as="geometry" />
+          <mxGeometry x="315" y="330" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kGUAkHhVCaLfEek3fLhH-32" value="0.9" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="180" y="370" width="35" height="30" as="geometry" />
@@ -83,7 +83,7 @@
           <mxGeometry x="252.5" y="370" width="35" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kGUAkHhVCaLfEek3fLhH-34" value="0.025" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="350" y="370" width="35" height="30" as="geometry" />
+          <mxGeometry x="335" y="370" width="35" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kGUAkHhVCaLfEek3fLhH-35" value="0.15" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="180" y="420" width="35" height="30" as="geometry" />
@@ -92,7 +92,7 @@
           <mxGeometry x="252.5" y="417.5" width="35" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kGUAkHhVCaLfEek3fLhH-37" value="0.05" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="350" y="420" width="35" height="30" as="geometry" />
+          <mxGeometry x="335" y="420" width="35" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
