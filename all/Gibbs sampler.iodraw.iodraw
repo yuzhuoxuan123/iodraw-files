@@ -395,6 +395,9 @@
         <mxCell id="kGUAkHhVCaLfEek3fLhH-157" value="$$\pi^{i}P(i,j)=\pi^{j}P(j,i)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="-205" y="1850" width="205" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="kGUAkHhVCaLfEek3fLhH-158" value="$$\pi(x)=\pi(x_1,x_2,...,x_n)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="12.530000000000008" y="1540" width="220" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
