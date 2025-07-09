@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="24.7.17">
   <diagram id="EE_fNQLQU6LWkINdDjPs" name="第 1 页">
-    <mxGraphModel dx="7956" dy="4353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="5241" dy="2612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1486,22 +1486,22 @@
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1352" value="MCAR / MAR / MNAR" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=60;labelPosition=center;verticalLabelPosition=middle;" parent="1" vertex="1">
           <mxGeometry x="989" y="5881.75" width="600" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Qy-mN9d_JIgyYBizsppX-1353" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#48C0AA;strokeWidth=3;" parent="1" vertex="1">
+        <mxCell id="Qy-mN9d_JIgyYBizsppX-1353" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#48C0AA;strokeWidth=3;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="30" y="6377" width="240" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Qy-mN9d_JIgyYBizsppX-1354" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#48C0AA;strokeWidth=3;fillStyle=zigzag-line;strokeColor=#48C0AA;" parent="1" vertex="1">
+        <mxCell id="Qy-mN9d_JIgyYBizsppX-1354" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#48C0AA;strokeWidth=3;fillStyle=zigzag-line;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="30" y="6547" width="240" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Qy-mN9d_JIgyYBizsppX-1355" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EF767A;strokeWidth=3;" parent="1" vertex="1">
+        <mxCell id="Qy-mN9d_JIgyYBizsppX-1355" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EF767A;strokeWidth=3;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="1110" y="6377" width="240" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Qy-mN9d_JIgyYBizsppX-1356" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EF767A;strokeWidth=3;fillStyle=zigzag-line;strokeColor=#EF767A;" parent="1" vertex="1">
+        <mxCell id="Qy-mN9d_JIgyYBizsppX-1356" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EF767A;strokeWidth=3;fillStyle=zigzag-line;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="1110" y="6547" width="240" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Qy-mN9d_JIgyYBizsppX-1357" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7D9BE5;strokeWidth=3;" parent="1" vertex="1">
+        <mxCell id="Qy-mN9d_JIgyYBizsppX-1357" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7D9BE5;strokeWidth=3;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="2338" y="6377.5" width="240" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Qy-mN9d_JIgyYBizsppX-1358" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7D9BE5;strokeWidth=3;fillStyle=zigzag-line;strokeColor=#7D9BE5;" parent="1" vertex="1">
+        <mxCell id="Qy-mN9d_JIgyYBizsppX-1358" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7D9BE5;strokeWidth=3;fillStyle=zigzag-line;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="2338" y="6547" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1359" value="observations from raw data" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=60;labelPosition=center;verticalLabelPosition=middle;" parent="1" vertex="1">
