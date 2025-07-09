@@ -419,6 +419,9 @@
         <mxCell id="kGUAkHhVCaLfEek3fLhH-164" value="&lt;div&gt;detailed balance condition&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="342.54" y="2015" width="225" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="kGUAkHhVCaLfEek3fLhH-165" value="&lt;div&gt;Prove Gibbs sampler fits detailed balance condition&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="12.53" y="1510" width="577.47" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
