@@ -393,7 +393,7 @@
           <mxGeometry x="320" y="1784.5" width="270.08" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kGUAkHhVCaLfEek3fLhH-157" value="$$\pi^{i}P(i,j)=\pi^{j}P(j,i)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1400" width="205" height="50" as="geometry" />
+          <mxGeometry x="-205" y="1850" width="205" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
