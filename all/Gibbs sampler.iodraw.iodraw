@@ -404,7 +404,7 @@
             <mxPoint x="-70" y="1670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kGUAkHhVCaLfEek3fLhH-160" value="$$\pi(x^{\prime})P(x^{\prime}\rightarrow x)=\pi(x^{\prime})\pi(x_k^{\prime}\mid x_{-k})=\pi(x_k\mid x_{-k})\pi(x_{-k})\pi(x_k^{\prime}\mid x_{-k})$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="kGUAkHhVCaLfEek3fLhH-160" value="$$\pi(x^{\prime})P(x^{\prime}\rightarrow x)=\pi(x^{\prime})\pi(x_k\mid x_{-k})=\pi(x_k\mid x_{-k})\pi(x_{-k})\pi(x_k^{\prime}\mid x_{-k})$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry y="1900" width="620" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kGUAkHhVCaLfEek3fLhH-161" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kGUAkHhVCaLfEek3fLhH-157" target="kGUAkHhVCaLfEek3fLhH-160">
