@@ -335,8 +335,8 @@
             <mxPoint x="350" y="1450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kGUAkHhVCaLfEek3fLhH-134" value="&lt;div&gt;Gibbs sampler&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="2.5300000000000002" y="1500" width="160" height="40" as="geometry" />
+        <mxCell id="kGUAkHhVCaLfEek3fLhH-134" value="&lt;div&gt;Prove Gibbs sampler&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="2.53" y="1500" width="577.47" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kGUAkHhVCaLfEek3fLhH-135" value="$$\pi(x)=\pi(x_1,x_2,...,x_n)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="2.5300000000000082" y="1530" width="220" height="50" as="geometry" />
