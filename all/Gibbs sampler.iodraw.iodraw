@@ -393,7 +393,7 @@
           <mxGeometry x="320" y="1784.5" width="270.08" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kGUAkHhVCaLfEek3fLhH-157" value="$$\pi^{i}P(i,j)=\pi^{j}P(j,i)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="1840" width="205" height="50" as="geometry" />
+          <mxGeometry x="-250" y="1840" width="205" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kGUAkHhVCaLfEek3fLhH-158" value="$$\pi(x)P(x\rightarrow x^{\prime})=\pi(x)\pi(x_k^{\prime}\mid x_{-k})=\pi(x_k\mid x_{-k})\pi(x_{-k})\pi(x_k^{\prime}\mid x_{-k})$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry y="1840" width="620" height="50" as="geometry" />
