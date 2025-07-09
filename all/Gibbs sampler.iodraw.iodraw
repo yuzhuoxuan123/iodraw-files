@@ -416,8 +416,8 @@
         <mxCell id="kGUAkHhVCaLfEek3fLhH-162" value="$$\pi(x)P(x\rightarrow x^{\prime})=\pi(x^{\prime})P(x^{\prime}\rightarrow x)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry y="2010" width="310" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="kGUAkHhVCaLfEek3fLhH-163" value="&lt;span style=&quot;color: rgb(25, 27, 31); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: medium; background-color: rgb(255, 255, 255);&quot;&gt;Fit detailed balance condition&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="338.52" y="2020" width="252.97" height="30" as="geometry" />
+        <mxCell id="kGUAkHhVCaLfEek3fLhH-164" value="&lt;div&gt;detailed balance condition&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="315" y="2170" width="225" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
