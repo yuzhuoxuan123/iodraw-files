@@ -432,7 +432,7 @@
           <mxGeometry x="592" y="2510" width="438" height="40" as="geometry" />
         </mxCell>
         <mxCell id="w4WEWg_jyvYBUj-fWXlm-5" value="&lt;div&gt;Joint distribution of variables&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;and&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="w4WEWg_jyvYBUj-fWXlm-8">
-          <mxGeometry width="438" height="40" as="geometry" />
+          <mxGeometry width="340" height="40" as="geometry" />
         </mxCell>
         <mxCell id="w4WEWg_jyvYBUj-fWXlm-6" value="$$X_1$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="w4WEWg_jyvYBUj-fWXlm-8">
           <mxGeometry x="218.03999999999996" y="5" width="39.96" height="30" as="geometry" />
