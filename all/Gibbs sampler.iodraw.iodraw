@@ -440,8 +440,8 @@
         <mxCell id="w4WEWg_jyvYBUj-fWXlm-7" value="$$X_2$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="w4WEWg_jyvYBUj-fWXlm-9">
           <mxGeometry x="288" y="5" width="39.96" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="w4WEWg_jyvYBUj-fWXlm-14" value="&lt;div&gt;detailed balance condition&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="2570" width="225" height="40" as="geometry" />
+        <mxCell id="w4WEWg_jyvYBUj-fWXlm-14" value="Two dimensional Gibbs sampling" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="2490" width="250" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
