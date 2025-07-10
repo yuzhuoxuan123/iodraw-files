@@ -431,7 +431,7 @@
         <mxCell id="w4WEWg_jyvYBUj-fWXlm-5" value="&lt;div&gt;Joint distribution of variables&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; and&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="592" y="2510" width="438" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="w4WEWg_jyvYBUj-fWXlm-6" value="$$\pi(x)P(x\rightarrow x^{\prime})=\pi(x^{\prime})P(x^{\prime}\rightarrow x)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="w4WEWg_jyvYBUj-fWXlm-6" value="$$X_1$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="7.470000000000001" y="2460" width="310" height="50" as="geometry" />
         </mxCell>
       </root>
