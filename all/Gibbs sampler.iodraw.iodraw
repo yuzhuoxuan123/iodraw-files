@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="zxwvJ8QqBvNLKcDwU7yc">
-    <mxGraphModel dx="2442" dy="816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="2241" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -429,7 +429,7 @@
           <mxGeometry x="530" y="2130" width="375.52" height="300" as="geometry" />
         </mxCell>
         <mxCell id="w4WEWg_jyvYBUj-fWXlm-9" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="570" y="2490" width="340" height="40" as="geometry" />
+          <mxGeometry x="547.76" y="2460" width="340" height="40" as="geometry" />
         </mxCell>
         <mxCell id="w4WEWg_jyvYBUj-fWXlm-5" value="&lt;div&gt;Joint distribution of variables&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;and&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="w4WEWg_jyvYBUj-fWXlm-9">
           <mxGeometry width="340" height="40" as="geometry" />
