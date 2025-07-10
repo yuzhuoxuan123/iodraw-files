@@ -505,7 +505,7 @@
         <mxCell id="3yfUWfzH2KHvVlx3le70-141" value="reconstructed data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="579.24" y="1022.5" width="122.9" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="3yfUWfzH2KHvVlx3le70-142" value="Assume: gaussian" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;strokeColor=default;" parent="1" vertex="1">
+        <mxCell id="3yfUWfzH2KHvVlx3le70-142" value="Assume: Gaussian" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="68.55" y="925" width="155.47" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-146" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="3yfUWfzH2KHvVlx3le70-137" target="3yfUWfzH2KHvVlx3le70-130" edge="1">
