@@ -443,6 +443,11 @@
         <mxCell id="w4WEWg_jyvYBUj-fWXlm-14" value="(b) Two dimensional Gibbs sampling" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="959.67" y="2470" width="280" height="40" as="geometry" />
         </mxCell>
+        <UserObject label="https://www.cnblogs.com/pinard/p/6645766.html" link="https://www.cnblogs.com/pinard/p/6645766.html" id="w4WEWg_jyvYBUj-fWXlm-15">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="1220" y="2040" width="290" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
