@@ -809,6 +809,9 @@
             <mxPoint x="133.01999999999998" y="2175.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="djMO949ERZCgcG88ezk6-2" value="$$\mathcal{N}(\mathbf{0},\mathbf{I})$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;strokeColor=none;fillColor=#e1d5e7;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="182.14" y="1310" width="123.5" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
