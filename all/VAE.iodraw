@@ -849,7 +849,7 @@
           <mxGeometry x="192.7846435787792" width="257.21535642122075" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8ISNxf0e3NyiOaFwgLYy-11" value="Neural network: train" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="8ISNxf0e3NyiOaFwgLYy-9">
-          <mxGeometry x="44.76528358629764" y="15" width="148.0193599924815" height="30" as="geometry" />
+          <mxGeometry x="44.77" y="15" width="185.23" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
