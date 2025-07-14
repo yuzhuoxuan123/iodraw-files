@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="24.7.17">
   <diagram id="EE_fNQLQU6LWkINdDjPs" name="第 1 页">
-    <mxGraphModel dx="2524" dy="1088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2025" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -768,45 +768,45 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-228" value="non-differentiable:" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="-224.86" y="2070" width="210" height="50" as="geometry" />
+          <mxGeometry x="-224.86" y="2210" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-229" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;Inter, -apple-system, system-ui, Segoe UI, SF Pro SC, SF Pro Display, SF Pro Icons, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Helvetica Neue, Helvetica, Arial, sans-serif&quot; color=&quot;#1c1f23&quot;&gt;&lt;span style=&quot;white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;$$\mathcal{N}(\boldsymbol{\mu}, \boldsymbol{\sigma}^2)$$&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="-20.089999999999996" y="2050" width="104.11" height="70" as="geometry" />
+          <mxGeometry x="-20.089999999999996" y="2190" width="104.11" height="70" as="geometry" />
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-230" value="&lt;span style=&quot;color: rgb(28, 31, 35); font-family: Inter, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 17px; text-align: start; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;$$\mathbf{z}$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="142.97" y="2080" width="56.11" height="30" as="geometry" />
+          <mxGeometry x="142.97" y="2220" width="56.11" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-231" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;spacing=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="3yfUWfzH2KHvVlx3le70-230" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="87.16" y="2094.5" as="sourcePoint" />
-            <mxPoint x="164.02" y="2096" as="targetPoint" />
+            <mxPoint x="87.16" y="2234.5" as="sourcePoint" />
+            <mxPoint x="164.02" y="2236" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-232" value="differentiable:" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="-224.86" y="2135" width="164.86" height="50" as="geometry" />
+          <mxGeometry x="-224.86" y="2275" width="164.86" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-234" value="reparameterization" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="301.57" y="1663" width="116.36" height="25" as="geometry" />
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-236" value="$$\boldsymbol{\epsilon}\sim\mathcal{N}(\mathbf{0},\mathbf{I})$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="-66.03" y="2145.5" width="120" height="39" as="geometry" />
+          <mxGeometry x="-66.03" y="2285.5" width="120" height="39" as="geometry" />
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-237" value="&lt;div style=&quot;text-align: center;&quot;&gt;$$\boldsymbol{\mu}+\boldsymbol{\epsilon}\times\boldsymbol{\sigma}$$&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fillColor=none;opacity=50;" parent="1" vertex="1">
-          <mxGeometry x="116.02" y="2145" width="110" height="40" as="geometry" />
+          <mxGeometry x="116.02" y="2285" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-239" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;spacing=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="3yfUWfzH2KHvVlx3le70-236" target="3yfUWfzH2KHvVlx3le70-237" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="123.29999999999997" y="2115.5" as="sourcePoint" />
-            <mxPoint x="204.15999999999997" y="2116" as="targetPoint" />
+            <mxPoint x="123.29999999999997" y="2255.5" as="sourcePoint" />
+            <mxPoint x="204.15999999999997" y="2256" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-240" value="&lt;span style=&quot;color: rgb(28, 31, 35); font-family: Inter, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 17px; text-align: start; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;$$\mathbf{z}$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="279.90999999999997" y="2150.5" width="56.11" height="30" as="geometry" />
+          <mxGeometry x="279.90999999999997" y="2290.5" width="56.11" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-241" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;spacing=0;" parent="1" source="3yfUWfzH2KHvVlx3le70-237" target="3yfUWfzH2KHvVlx3le70-240" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="64.02" y="2175.5" as="sourcePoint" />
-            <mxPoint x="133.01999999999998" y="2175.5" as="targetPoint" />
+            <mxPoint x="64.02" y="2315.5" as="sourcePoint" />
+            <mxPoint x="133.01999999999998" y="2315.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="djMO949ERZCgcG88ezk6-2" value="$$\mathcal{N}(\mathbf{0},\mathbf{I})$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;strokeColor=none;fillColor=#e1d5e7;opacity=50;" parent="1" vertex="1">
