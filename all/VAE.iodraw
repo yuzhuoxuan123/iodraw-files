@@ -461,7 +461,7 @@
           <mxGeometry x="9.409999999999993" y="962.5" width="121.64" height="45" as="geometry" />
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-131" value="&lt;div style=&quot;text-align: left; font-size: 17px;&quot;&gt;&lt;span style=&quot;color: rgb(28, 31, 35); font-family: Inter, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: medium; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;$$\mathbf{z} \sim p(\mathbf{z}\mid\mathbf{x}_0^\mathrm{co})$$&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="293.59000000000003" y="955" width="122.34" height="60" as="geometry" />
+          <mxGeometry x="214.47000000000003" y="955" width="122.34" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-132" value="&lt;div style=&quot;text-align: left; font-size: 17px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;&lt;font face=&quot;SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace&quot; style=&quot;font-size: 17px;&quot;&gt;$$\mathbf{x}_0^\mathrm{ta}$$&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="624.63" y="955" width="42.47" height="60" as="geometry" />
@@ -521,7 +521,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-148" value="" style="group;dashed=1;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="252.14000000000001" y="1090" width="450" height="70" as="geometry" />
+          <mxGeometry x="252.14000000000001" y="1104" width="450" height="70" as="geometry" />
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-145" value="" style="group;strokeColor=default;dashed=1;strokeWidth=1;container=0;" parent="3yfUWfzH2KHvVlx3le70-148" vertex="1" connectable="0">
           <mxGeometry width="450" height="70" as="geometry" />
@@ -550,7 +550,7 @@
         <mxCell id="3yfUWfzH2KHvVlx3le70-151" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;dashed=1;" parent="1" source="3yfUWfzH2KHvVlx3le70-130" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="262" y="1135" as="sourcePoint" />
-            <mxPoint x="290" y="1090" as="targetPoint" />
+            <mxPoint x="280" y="1100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-152" value="&lt;div style=&quot;text-align: left; font-size: 17px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;&lt;font face=&quot;SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace&quot; style=&quot;font-size: 17px;&quot;&gt;$$\mathbf{x}_0^\mathrm{co}$$&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fillColor=#e1d5e7;strokeColor=none;opacity=50;" parent="1" vertex="1">
