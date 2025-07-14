@@ -851,6 +851,9 @@
         <mxCell id="8ISNxf0e3NyiOaFwgLYy-11" value="Neural network: train" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="8ISNxf0e3NyiOaFwgLYy-9">
           <mxGeometry x="44.77" y="15" width="185.23" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="8ISNxf0e3NyiOaFwgLYy-12" value="Neural network: train" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="64.77000000000001" y="1390" width="185.23" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
