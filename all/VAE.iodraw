@@ -818,7 +818,7 @@
         <mxCell id="8ISNxf0e3NyiOaFwgLYy-13" value="&lt;div style=&quot;text-align: left; font-size: 17px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;&lt;font face=&quot;SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace&quot; style=&quot;font-size: 17px;&quot;&gt;$$p(\mathbf{z}\mid\mathbf{x}_0^\mathrm{co})$$&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=17;fillColor=none;opacity=60;strokeColor=none;" vertex="1" parent="8ISNxf0e3NyiOaFwgLYy-9">
           <mxGeometry x="406.01598916216847" y="10" width="86.48825901577366" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8ISNxf0e3NyiOaFwgLYy-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="8ISNxf0e3NyiOaFwgLYy-16">
+        <mxCell id="8ISNxf0e3NyiOaFwgLYy-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="8ISNxf0e3NyiOaFwgLYy-16">
           <mxGeometry width="860" height="210" as="geometry" />
         </mxCell>
       </root>
