@@ -633,7 +633,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-192" value="loss(2): regularization loss" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fillColor=none;strokeColor=none;fontColor=#FF3333;" parent="1" vertex="1">
-          <mxGeometry x="295.64" y="1490" width="174.36" height="30" as="geometry" />
+          <mxGeometry x="-2.2200000000000273" y="1490" width="174.36" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-194" value="MSE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;strokeColor=none;fillColor=#f8cecc;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="52.14" y="1796" width="123.5" height="30" as="geometry" />
