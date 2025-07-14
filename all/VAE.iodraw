@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="24.7.17">
   <diagram id="EE_fNQLQU6LWkINdDjPs" name="第 1 页">
-    <mxGraphModel dx="2100" dy="816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1581" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -777,16 +777,16 @@
           <mxGeometry x="-165" y="1220" width="120" height="170.31" as="geometry" />
         </mxCell>
         <mxCell id="8ISNxf0e3NyiOaFwgLYy-3" value="" style="group;strokeColor=none;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="13.74" y="1220" width="450" height="70" as="geometry" />
+          <mxGeometry x="-20" y="1220" width="483.74" height="70" as="geometry" />
         </mxCell>
         <mxCell id="8ISNxf0e3NyiOaFwgLYy-4" value="" style="group;strokeColor=none;dashed=1;strokeWidth=1;container=0;" vertex="1" connectable="0" parent="8ISNxf0e3NyiOaFwgLYy-3">
-          <mxGeometry width="450" height="70" as="geometry" />
+          <mxGeometry width="483.74" height="70" as="geometry" />
         </mxCell>
         <mxCell id="8ISNxf0e3NyiOaFwgLYy-5" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgba(0, 0, 0, 0.04);&quot;&gt;$$p(z\mid\boldsymbol{x})=\frac{p(z,\boldsymbol{x})}{p(\boldsymbol{x})}=\frac{p(\boldsymbol{x}\mid z)p(z)}{\int_zp(\boldsymbol{x}\mid z)p(z)dz}$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;strokeWidth=2;" vertex="1" parent="8ISNxf0e3NyiOaFwgLYy-3">
-          <mxGeometry x="109.40686674669865" width="340.5882352941177" height="70" as="geometry" />
+          <mxGeometry x="117.60995048899558" width="366.1247843137255" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="8ISNxf0e3NyiOaFwgLYy-6" value="Hard to calculate" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;strokeColor=none;" vertex="1" parent="8ISNxf0e3NyiOaFwgLYy-3">
-          <mxGeometry x="-30" y="13.61" width="140" height="42.78" as="geometry" />
+        <mxCell id="8ISNxf0e3NyiOaFwgLYy-6" value="Hard to calculate" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;strokeColor=none;" vertex="1" parent="8ISNxf0e3NyiOaFwgLYy-3">
+          <mxGeometry x="-9.999333333333333" y="13.61" width="150.4968888888889" height="42.78" as="geometry" />
         </mxCell>
         <mxCell id="8ISNxf0e3NyiOaFwgLYy-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="8ISNxf0e3NyiOaFwgLYy-2" target="8ISNxf0e3NyiOaFwgLYy-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
