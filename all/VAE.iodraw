@@ -819,7 +819,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8ISNxf0e3NyiOaFwgLYy-2" value="encoder&lt;div&gt;&lt;span style=&quot;font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; text-align: left;&quot;&gt;$$p(\mathbf{z}\mid\mathbf{x}_0^\mathrm{co})$$&lt;/span&gt;&lt;/div&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;fontSize=17;fillColor=#159FD7;gradientColor=none;gradientDirection=radial;opacity=50;strokeColor=none;size=35.159999999999854;" vertex="1" parent="1">
-          <mxGeometry x="-134.86" y="1220" width="120" height="170.31" as="geometry" />
+          <mxGeometry x="-165" y="1220" width="120" height="170.31" as="geometry" />
         </mxCell>
         <mxCell id="8ISNxf0e3NyiOaFwgLYy-3" value="" style="group;strokeColor=default;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="10" y="1220" width="450" height="70" as="geometry" />
@@ -840,7 +840,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8ISNxf0e3NyiOaFwgLYy-8" value="encoder&lt;div&gt;&lt;span style=&quot;font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; text-align: left;&quot;&gt;$$q_\phi(\mathbf{z}\mid\mathbf{x}_0^\mathrm{co})$$&lt;/span&gt;&lt;/div&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;fontSize=17;fillColor=#159FD7;gradientColor=none;gradientDirection=radial;opacity=50;strokeColor=none;size=35.159999999999854;" vertex="1" parent="1">
-          <mxGeometry x="493.39" y="1220" width="120" height="170.31" as="geometry" />
+          <mxGeometry x="540" y="1220" width="120" height="170.31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
