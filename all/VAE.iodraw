@@ -833,14 +833,14 @@
         <mxCell id="8ISNxf0e3NyiOaFwgLYy-6" value="Hard to calculate" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="8ISNxf0e3NyiOaFwgLYy-3">
           <mxGeometry y="13.6099999999999" width="110" height="42.78" as="geometry" />
         </mxCell>
-        <mxCell id="8ISNxf0e3NyiOaFwgLYy-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="8ISNxf0e3NyiOaFwgLYy-2">
+        <mxCell id="8ISNxf0e3NyiOaFwgLYy-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="8ISNxf0e3NyiOaFwgLYy-2" target="8ISNxf0e3NyiOaFwgLYy-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="262" y="1149" as="sourcePoint" />
             <mxPoint x="135" y="1149" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8ISNxf0e3NyiOaFwgLYy-8" value="encoder&lt;div&gt;&lt;span style=&quot;font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; text-align: left;&quot;&gt;$$q_\phi(\mathbf{z}\mid\mathbf{x}_0^\mathrm{co})$$&lt;/span&gt;&lt;/div&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;fontSize=17;fillColor=#159FD7;gradientColor=none;gradientDirection=radial;opacity=50;strokeColor=none;size=35.159999999999854;" vertex="1" parent="1">
-          <mxGeometry x="12.14" y="1544.84" width="120" height="170.31" as="geometry" />
+          <mxGeometry x="493.39" y="1220" width="120" height="170.31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
