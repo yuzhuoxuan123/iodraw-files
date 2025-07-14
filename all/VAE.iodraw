@@ -843,13 +843,13 @@
           <mxGeometry x="540" y="1220" width="120" height="170.31" as="geometry" />
         </mxCell>
         <mxCell id="8ISNxf0e3NyiOaFwgLYy-9" value="" style="group;fillColor=#D5E8D4;opacity=70;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-56.03" y="1119" width="191.05" height="60" as="geometry" />
+          <mxGeometry x="10" y="1310" width="450" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8ISNxf0e3NyiOaFwgLYy-10" value="&lt;div style=&quot;text-align: left; font-size: 17px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;&lt;font face=&quot;SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace&quot; style=&quot;font-size: 17px;&quot;&gt;$$q_\phi(\mathbf{z}\mid\mathbf{x}_0^\mathrm{co})$$&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=17;fillColor=none;opacity=60;" vertex="1" parent="8ISNxf0e3NyiOaFwgLYy-9">
-          <mxGeometry x="81.84779145716837" width="109.20220854283161" height="60" as="geometry" />
+          <mxGeometry x="192.7846435787792" width="257.21535642122075" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8ISNxf0e3NyiOaFwgLYy-11" value="Target" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="8ISNxf0e3NyiOaFwgLYy-9">
-          <mxGeometry x="19.00534984258259" y="15" width="62.842441614585766" height="30" as="geometry" />
+        <mxCell id="8ISNxf0e3NyiOaFwgLYy-11" value="Neural network: train" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="8ISNxf0e3NyiOaFwgLYy-9">
+          <mxGeometry x="44.76528358629764" y="15" width="148.0193599924815" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
