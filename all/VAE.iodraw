@@ -533,13 +533,13 @@
           <mxGeometry y="13.6099999999999" width="110" height="42.78" as="geometry" />
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-149" value="" style="group;fillColor=#D5E8D4;opacity=70;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-81.76" y="1100" width="212.81000000000003" height="60" as="geometry" />
+          <mxGeometry x="-60" y="1100" width="191.05" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-128" value="&lt;div style=&quot;text-align: left; font-size: 17px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;&lt;font face=&quot;SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace&quot; style=&quot;font-size: 17px;&quot;&gt;$$q_\phi(\mathbf{z}\mid\mathbf{x}_0^\mathrm{co})$$&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=17;fillColor=none;opacity=60;" parent="3yfUWfzH2KHvVlx3le70-149" vertex="1">
-          <mxGeometry x="91.17000000000002" width="121.64" height="60" as="geometry" />
+          <mxGeometry x="81.84779145716837" width="109.20220854283161" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-144" value="Target" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="3yfUWfzH2KHvVlx3le70-149" vertex="1">
-          <mxGeometry x="21.17" y="15" width="70" height="30" as="geometry" />
+          <mxGeometry x="19.00534984258259" y="15" width="62.842441614585766" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-150" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="3yfUWfzH2KHvVlx3le70-143" target="3yfUWfzH2KHvVlx3le70-128" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
