@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="24.7.17">
   <diagram id="EE_fNQLQU6LWkINdDjPs" name="第 1 页">
-    <mxGraphModel dx="2100" dy="816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1610" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -491,7 +491,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-137" value="latent distribution" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="75.80999999999997" y="1035" width="140.94" height="30" as="geometry" />
+          <mxGeometry x="-2.842170943040401e-14" y="1035" width="140.94" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-138" value="sampled latent representation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="277.1" y="1022.5" width="155.31" height="55" as="geometry" />
@@ -533,7 +533,7 @@
           <mxGeometry y="13.6099999999999" width="110" height="42.78" as="geometry" />
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-149" value="" style="group;fillColor=#D5E8D4;opacity=70;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-5.710000000000011" y="1095" width="212.81000000000003" height="60" as="geometry" />
+          <mxGeometry x="-81.76" y="1100" width="212.81000000000003" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-128" value="&lt;div style=&quot;text-align: left; font-size: 17px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;&lt;font face=&quot;SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace&quot; style=&quot;font-size: 17px;&quot;&gt;$$q_\phi(\mathbf{z}\mid\mathbf{x}_0^\mathrm{co})$$&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=17;fillColor=none;opacity=60;" parent="3yfUWfzH2KHvVlx3le70-149" vertex="1">
           <mxGeometry x="91.17000000000002" width="121.64" height="60" as="geometry" />
