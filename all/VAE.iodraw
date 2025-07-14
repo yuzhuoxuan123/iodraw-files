@@ -818,12 +818,13 @@
         <mxCell id="8ISNxf0e3NyiOaFwgLYy-4" value="" style="group;strokeColor=none;dashed=1;strokeWidth=1;container=0;" vertex="1" connectable="0" parent="8ISNxf0e3NyiOaFwgLYy-21">
           <mxGeometry x="148.13" y="20.339999999999918" width="483.74" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="8ISNxf0e3NyiOaFwgLYy-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="3yfUWfzH2KHvVlx3le70-103">
+        <mxCell id="8ISNxf0e3NyiOaFwgLYy-23" value="" style="endArrow=classic;html=1;rounded=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;curved=0;" edge="1" parent="1" source="3yfUWfzH2KHvVlx3le70-103">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-350" y="960" as="sourcePoint" />
             <mxPoint x="-300" y="910" as="targetPoint" />
             <Array as="points">
               <mxPoint x="70" y="680" />
+              <mxPoint x="-120" y="680" />
             </Array>
           </mxGeometry>
         </mxCell>
