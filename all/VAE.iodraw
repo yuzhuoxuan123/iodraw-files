@@ -843,16 +843,16 @@
           <mxGeometry x="540" y="1220" width="120" height="170.31" as="geometry" />
         </mxCell>
         <mxCell id="8ISNxf0e3NyiOaFwgLYy-9" value="" style="group;fillColor=#D5E8D4;opacity=70;" vertex="1" connectable="0" parent="1">
-          <mxGeometry y="1310" width="492.5" height="60" as="geometry" />
+          <mxGeometry x="-7.51" y="1310" width="492.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8ISNxf0e3NyiOaFwgLYy-10" value="&lt;div style=&quot;text-align: left; font-size: 17px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;&lt;font face=&quot;SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace&quot; style=&quot;font-size: 17px;&quot;&gt;$$q_\phi(\mathbf{z}\mid\mathbf{x}_0^\mathrm{co})$$&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=17;fillColor=none;opacity=60;" vertex="1" parent="8ISNxf0e3NyiOaFwgLYy-9">
-          <mxGeometry x="186.1964672029573" y="10" width="86.48825901577366" height="40" as="geometry" />
+          <mxGeometry x="176.93646720295732" y="10" width="86.48825901577366" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8ISNxf0e3NyiOaFwgLYy-11" value="Train neural network" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="8ISNxf0e3NyiOaFwgLYy-9">
           <mxGeometry x="6.020352439562287" y="15" width="170.91801264413687" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8ISNxf0e3NyiOaFwgLYy-12" value="to approximate" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="8ISNxf0e3NyiOaFwgLYy-9">
-          <mxGeometry x="250.84801831509526" y="15" width="191.606509000021" height="30" as="geometry" />
+          <mxGeometry x="270" y="15" width="172.45" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8ISNxf0e3NyiOaFwgLYy-13" value="&lt;div style=&quot;text-align: left; font-size: 17px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;&lt;font face=&quot;SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace&quot; style=&quot;font-size: 17px;&quot;&gt;$$p(\mathbf{z}\mid\mathbf{x}_0^\mathrm{co})$$&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=17;fillColor=none;opacity=60;" vertex="1" parent="8ISNxf0e3NyiOaFwgLYy-9">
           <mxGeometry x="406.01598916216847" y="10" width="86.48825901577366" height="40" as="geometry" />
