@@ -677,8 +677,8 @@
             <mxPoint x="286.14" y="1341" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3yfUWfzH2KHvVlx3le70-192" value="regularization loss" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fillColor=none;strokeColor=none;fontColor=#EF767A;" parent="1" vertex="1">
-          <mxGeometry x="295.64" y="1300" width="146.5" height="30" as="geometry" />
+        <mxCell id="3yfUWfzH2KHvVlx3le70-192" value="loss(1): regularization loss" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fillColor=none;strokeColor=none;fontColor=#EF767A;" parent="1" vertex="1">
+          <mxGeometry x="295.64" y="1300" width="204.36" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-194" value="MSE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;strokeColor=none;fillColor=#d5e8d4;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="52.14" y="1606" width="123.5" height="30" as="geometry" />
