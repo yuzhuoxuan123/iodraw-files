@@ -491,7 +491,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-137" value="latent distribution" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="-2.842170943040401e-14" y="1027.5" width="140.94" height="30" as="geometry" />
+          <mxGeometry x="-2.842170943040401e-14" y="1020" width="140.94" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-138" value="sampled latent representation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="221.08" y="1007.5" width="134.39" height="55" as="geometry" />
@@ -507,18 +507,6 @@
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-142" value="Assume: Gaussian" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="-7.510000000000005" y="925" width="155.47" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3yfUWfzH2KHvVlx3le70-146" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="3yfUWfzH2KHvVlx3le70-137" target="3yfUWfzH2KHvVlx3le70-130" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-13.900000000000006" y="995" as="sourcePoint" />
-            <mxPoint x="95.1" y="995" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3yfUWfzH2KHvVlx3le70-147" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3yfUWfzH2KHvVlx3le70-137" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="156.1" y="1055" as="sourcePoint" />
-            <mxPoint x="70.41889572858418" y="1109" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="3yfUWfzH2KHvVlx3le70-152" value="&lt;div style=&quot;text-align: left; font-size: 17px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;&lt;font face=&quot;SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace&quot; style=&quot;font-size: 17px;&quot;&gt;$$\mathbf{x}_0^\mathrm{co}$$&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fillColor=#e1d5e7;strokeColor=none;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="-87.86" y="1590.5" width="57.5" height="60" as="geometry" />
