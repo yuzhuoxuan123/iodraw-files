@@ -1272,15 +1272,15 @@
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1222" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=7;curved=0;shadow=0;endFill=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2375" y="4123.75" as="sourcePoint" />
-            <mxPoint x="3155" y="4123.75" as="targetPoint" />
+            <mxPoint x="2350" y="4110" as="sourcePoint" />
+            <mxPoint x="3130" y="4110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1223" value="missing mechanism" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;labelPosition=center;verticalLabelPosition=middle;" parent="1" vertex="1">
-          <mxGeometry x="2270" y="3970" width="760" height="77.5" as="geometry" />
+          <mxGeometry x="2385" y="4006.25" width="760" height="77.5" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1224" value="MCAR / MAR / MNAR" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;labelPosition=center;verticalLabelPosition=middle;" parent="1" vertex="1">
-          <mxGeometry x="2435" y="4151.75" width="855" height="80" as="geometry" />
+          <mxGeometry x="2320" y="4200" width="855" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1225" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#48C0AA;strokeWidth=3;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry y="5131" width="240" height="110" as="geometry" />
