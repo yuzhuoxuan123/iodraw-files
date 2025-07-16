@@ -681,8 +681,8 @@
             <mxPoint x="1457" y="2280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UpMmrp_5C2HHt7z24wkq-343" value="$$y_n=\gamma_1 \times age_n + \gamma_2 \times sex_n $$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;strokeColor=default;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="2065" width="433" height="75" as="geometry" />
+        <mxCell id="UpMmrp_5C2HHt7z24wkq-344" value="$$logistics $$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1074.52" y="2220" width="236.21" height="41.98" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
