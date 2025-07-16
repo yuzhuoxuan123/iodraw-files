@@ -1486,8 +1486,8 @@
         <mxCell id="ZdpiwdMfnNob12SJqFXb-3" value="MCAR / MAR / MNAR" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;labelPosition=center;verticalLabelPosition=middle;" parent="1" vertex="1">
           <mxGeometry x="1616.5" y="5442.75" width="855" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="sd1bHSmYDoVPeIi4v6yd-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="3100" width="2780" height="1040" as="geometry" />
+        <mxCell id="sd1bHSmYDoVPeIi4v6yd-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="3100" width="4190" height="1160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
