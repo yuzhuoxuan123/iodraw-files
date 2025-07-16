@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="VPvIx2XXLHf_mWW60aEi">
-    <mxGraphModel dx="2510" dy="1598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="1825" dy="1162" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -329,13 +329,13 @@
           <mxGeometry x="2133.2692307692305" y="375" width="156.6346153846154" height="75" as="geometry" />
         </mxCell>
         <mxCell id="UpMmrp_5C2HHt7z24wkq-195" value="age" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=#CCCCCC;" vertex="1" parent="1">
-          <mxGeometry x="1075.7792307692305" y="1910" width="156.6346153846154" height="75" as="geometry" />
+          <mxGeometry x="1066.7492307692305" y="1829" width="156.6346153846154" height="75" as="geometry" />
         </mxCell>
         <mxCell id="UpMmrp_5C2HHt7z24wkq-196" value="sex" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=#CCCCCC;" vertex="1" parent="1">
-          <mxGeometry x="1232.4092307692306" y="1910" width="156.6346153846154" height="75" as="geometry" />
+          <mxGeometry x="1223.3792307692306" y="1829" width="156.6346153846154" height="75" as="geometry" />
         </mxCell>
         <mxCell id="UpMmrp_5C2HHt7z24wkq-197" value="$$\beta_1$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1075.7792307692305" y="1985" width="156.6346153846154" height="75" as="geometry" />
+          <mxGeometry x="1066.7492307692305" y="1904" width="156.6346153846154" height="75" as="geometry" />
         </mxCell>
         <mxCell id="UpMmrp_5C2HHt7z24wkq-198" value="edu-num" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="427.6346153846153" y="1754" width="156.6346153846154" height="75" as="geometry" />
@@ -416,7 +416,7 @@
           <mxGeometry x="726.33" y="2175" width="186.52" height="41.98" as="geometry" />
         </mxCell>
         <mxCell id="UpMmrp_5C2HHt7z24wkq-235" value="$$\beta_0$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1232.4092307692306" y="1985" width="156.6346153846154" height="75" as="geometry" />
+          <mxGeometry x="1223.3792307692306" y="1904" width="156.6346153846154" height="75" as="geometry" />
         </mxCell>
         <mxCell id="UpMmrp_5C2HHt7z24wkq-237" value="$$\odot$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=60;fillColor=none;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="950" y="1891.5" width="100" height="100" as="geometry" />
