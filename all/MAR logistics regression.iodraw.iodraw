@@ -440,10 +440,10 @@
           <mxGeometry x="1475.69" y="2055" width="433" height="75" as="geometry" />
         </mxCell>
         <mxCell id="UpMmrp_5C2HHt7z24wkq-246" value="$$\gamma_1, \gamma_2 \sim N(0,1)$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1042.38" y="1971.5" width="250" height="41.98" as="geometry" />
+          <mxGeometry x="983.7900000000001" y="1950" width="250" height="41.98" as="geometry" />
         </mxCell>
         <mxCell id="UpMmrp_5C2HHt7z24wkq-247" value="randomly sampled" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1018.5900000000001" y="2021.52" width="297.58" height="41.98" as="geometry" />
+          <mxGeometry x="960.0000000000001" y="2000.02" width="297.58" height="41.98" as="geometry" />
         </mxCell>
         <mxCell id="UpMmrp_5C2HHt7z24wkq-280" value="&lt;span style=&quot;font-family: Inter, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; white-space: pre; background-color: rgb(255, 255, 255); font-size: 28px;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;$$\frac{1}{1 + e^{- (\gamma_0 + y_n)}} $$&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;strokeColor=none;fontColor=#E4B112;align=left;" vertex="1" parent="1">
           <mxGeometry x="1670" y="2400" width="190" height="80" as="geometry" />
@@ -625,8 +625,8 @@
         </mxCell>
         <mxCell id="UpMmrp_5C2HHt7z24wkq-306" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="930" y="1950" as="sourcePoint" />
-            <mxPoint x="1440" y="1950" as="targetPoint" />
+            <mxPoint x="919.06" y="1930" as="sourcePoint" />
+            <mxPoint x="1329.06" y="1930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
