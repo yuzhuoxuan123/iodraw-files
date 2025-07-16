@@ -559,7 +559,7 @@
         <mxCell id="UpMmrp_5C2HHt7z24wkq-267" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1290" y="2540" width="400" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="UpMmrp_5C2HHt7z24wkq-268" value="" style="endArrow=none;html=1;rounded=0;curved=1;strokeColor=#FFCE9F;" edge="1" parent="UpMmrp_5C2HHt7z24wkq-267">
+        <mxCell id="UpMmrp_5C2HHt7z24wkq-268" value="" style="endArrow=none;html=1;rounded=0;curved=1;strokeColor=#B5739D;" edge="1" parent="UpMmrp_5C2HHt7z24wkq-267">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="130" as="sourcePoint" />
             <mxPoint x="400" as="targetPoint" />
@@ -569,7 +569,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UpMmrp_5C2HHt7z24wkq-269" value="" style="endArrow=none;html=1;rounded=0;curved=1;strokeColor=#FFCE9F;" edge="1" parent="UpMmrp_5C2HHt7z24wkq-267">
+        <mxCell id="UpMmrp_5C2HHt7z24wkq-269" value="" style="endArrow=none;html=1;rounded=0;curved=1;strokeColor=#B5739D;" edge="1" parent="UpMmrp_5C2HHt7z24wkq-267">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint y="260" as="sourcePoint" />
             <mxPoint x="200" y="130" as="targetPoint" />
