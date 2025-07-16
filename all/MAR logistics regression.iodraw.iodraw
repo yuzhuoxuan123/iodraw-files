@@ -478,13 +478,13 @@
             <mxPoint x="515" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UpMmrp_5C2HHt7z24wkq-253" value="" style="endArrow=none;html=1;rounded=0;curved=1;" edge="1" parent="1">
+        <mxCell id="UpMmrp_5C2HHt7z24wkq-253" value="" style="endArrow=none;html=1;rounded=0;curved=1;" edge="1" parent="UpMmrp_5C2HHt7z24wkq-250">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="580" y="2740" as="sourcePoint" />
-            <mxPoint x="780" y="2610" as="targetPoint" />
+            <mxPoint x="450" y="250" as="sourcePoint" />
+            <mxPoint x="250" y="120" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="620" y="2660" />
-              <mxPoint x="700" y="2620" />
+              <mxPoint x="370" y="240" />
+              <mxPoint x="290" y="200" />
             </Array>
           </mxGeometry>
         </mxCell>
