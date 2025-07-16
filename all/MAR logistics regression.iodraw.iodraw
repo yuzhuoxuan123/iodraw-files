@@ -418,11 +418,8 @@
         <mxCell id="UpMmrp_5C2HHt7z24wkq-243" value="$$y_2=\gamma_1 \times age_2 + \gamma_2 \times sex_2 $$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;strokeColor=default;align=center;" vertex="1" parent="1">
           <mxGeometry x="1240" y="1904" width="433" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="UpMmrp_5C2HHt7z24wkq-244" value="$$ \cdots $$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;strokeColor=default;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="1979" width="433" height="75" as="geometry" />
-        </mxCell>
         <mxCell id="UpMmrp_5C2HHt7z24wkq-245" value="$$y_n=\gamma_1 \times age_n + \gamma_2 \times sex_n $$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;strokeColor=default;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="2055" width="433" height="75" as="geometry" />
+          <mxGeometry x="1240" y="2068" width="433" height="75" as="geometry" />
         </mxCell>
         <mxCell id="UpMmrp_5C2HHt7z24wkq-246" value="$$\gamma_1, \gamma_2 \sim \mathcal{N}(0,1)$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="951.8999999999999" y="1829" width="236.21" height="41.98" as="geometry" />
@@ -686,6 +683,9 @@
         </mxCell>
         <mxCell id="UpMmrp_5C2HHt7z24wkq-345" value="$$\mathrm{logistics} (\gamma_0+y_n)$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;strokeColor=none;fontColor=#000000;align=right;" vertex="1" parent="1">
           <mxGeometry x="1130.5" y="2230" width="310" height="41.98" as="geometry" />
+        </mxCell>
+        <mxCell id="UpMmrp_5C2HHt7z24wkq-346" value="$$y_2=\gamma_1 \times age_2 + \gamma_2 \times sex_2 $$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;strokeColor=default;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="1979" width="433" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
