@@ -292,8 +292,8 @@
         <mxCell id="UpMmrp_5C2HHt7z24wkq-168" value="deterministic" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1380.01" y="208.01999999999998" width="178.52" height="41.98" as="geometry" />
         </mxCell>
-        <mxCell id="UpMmrp_5C2HHt7z24wkq-172" value="convert categorical variables to numbers&lt;div&gt;Female -&amp;gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="271" y="2240" width="829" height="110" as="geometry" />
+        <mxCell id="UpMmrp_5C2HHt7z24wkq-172" value="convert categorical variables to numbers&lt;div&gt;Female&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="271" y="2240" width="829" height="120" as="geometry" />
         </mxCell>
         <mxCell id="UpMmrp_5C2HHt7z24wkq-174" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=0;direction=north;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="746.22" y="1150" width="140" height="20" as="geometry" />
