@@ -621,7 +621,7 @@
           <mxGeometry x="557.58" y="2594.536306068602" width="30.833333333333332" height="36.41160949868075" as="geometry" />
         </mxCell>
         <mxCell id="UpMmrp_5C2HHt7z24wkq-295" value="decision boundary" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="300" y="2588.97" width="257.58" height="41.98" as="geometry" />
+          <mxGeometry x="1400" y="2591.75" width="257.58" height="41.98" as="geometry" />
         </mxCell>
         <mxCell id="UpMmrp_5C2HHt7z24wkq-306" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
