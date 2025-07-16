@@ -298,8 +298,8 @@
             <mxPoint x="1180" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UpMmrp_5C2HHt7z24wkq-171" value="deterministic" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="980" y="700" width="178.52" height="41.98" as="geometry" />
+        <mxCell id="UpMmrp_5C2HHt7z24wkq-171" value="numerical encoding" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="980" y="700" width="250" height="41.98" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
