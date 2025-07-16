@@ -436,6 +436,12 @@
         <mxCell id="UpMmrp_5C2HHt7z24wkq-243" value="$$y_2=\beta_1 \times age_2 + \beta_2 \times sex_2 $$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;strokeColor=default;align=center;" vertex="1" parent="1">
           <mxGeometry x="1597" y="1904" width="433" height="75" as="geometry" />
         </mxCell>
+        <mxCell id="UpMmrp_5C2HHt7z24wkq-244" value="$$y_2=\beta_1 \times age_2 + \beta_2 \times sex_2 $$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;strokeColor=default;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1597" y="1980" width="433" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="UpMmrp_5C2HHt7z24wkq-245" value="$$y_2=\beta_1 \times age_2 + \beta_2 \times sex_2 $$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;strokeColor=default;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1597" y="2055" width="433" height="75" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
