@@ -137,6 +137,9 @@
           <mxGeometry x="737.8992307692307" y="900" width="156.6346153846154" height="75" as="geometry" />
         </mxCell>
         <mxCell id="UpMmrp_5C2HHt7z24wkq-111" value="Male" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="737.8992307692307" y="675" width="156.6346153846154" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="UpMmrp_5C2HHt7z24wkq-112" value="Female" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="737.8992307692307" y="600" width="156.6346153846154" height="75" as="geometry" />
         </mxCell>
       </root>
