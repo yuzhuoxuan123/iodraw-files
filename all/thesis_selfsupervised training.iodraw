@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="24.7.17">
   <diagram id="EE_fNQLQU6LWkINdDjPs" name="第 1 页">
-    <mxGraphModel dx="6259" dy="3265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="4078" dy="1866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1457,10 +1457,10 @@
           <mxGeometry x="2338" y="6547" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1359" value="observations from raw data" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;labelPosition=center;verticalLabelPosition=middle;" parent="1" vertex="1">
-          <mxGeometry x="140" y="6370" width="970" height="125" as="geometry" />
+          <mxGeometry x="50" y="6362" width="970" height="125" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1360" value="missing from raw data" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;labelPosition=center;verticalLabelPosition=middle;" parent="1" vertex="1">
-          <mxGeometry x="305" y="6540" width="705" height="125" as="geometry" />
+          <mxGeometry x="50" y="6532" width="870" height="125" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1361" value="observations from random mask" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;labelPosition=center;verticalLabelPosition=middle;" parent="1" vertex="1">
           <mxGeometry x="1380" y="6370" width="910" height="125" as="geometry" />
