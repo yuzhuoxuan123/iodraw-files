@@ -299,7 +299,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UpMmrp_5C2HHt7z24wkq-171" value="numerical encoding" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="940" y="700" width="250" height="41.98" as="geometry" />
+          <mxGeometry x="940" y="691.51" width="250" height="41.98" as="geometry" />
         </mxCell>
         <mxCell id="UpMmrp_5C2HHt7z24wkq-172" value="categorical variables" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="920" y="760" width="290" height="41.98" as="geometry" />
