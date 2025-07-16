@@ -328,20 +328,14 @@
         <mxCell id="UpMmrp_5C2HHt7z24wkq-192" value="$$\beta_1$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2133.2692307692305" y="375" width="156.6346153846154" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="UpMmrp_5C2HHt7z24wkq-193" value="edu-num" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=#CCCCCC;" vertex="1" parent="1">
-          <mxGeometry x="2016.6346153846152" y="1654" width="156.6346153846154" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="UpMmrp_5C2HHt7z24wkq-194" value="sample_id" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=#CCCCCC;" vertex="1" parent="1">
-          <mxGeometry x="1860" y="1654" width="156.6346153846154" height="75" as="geometry" />
-        </mxCell>
         <mxCell id="UpMmrp_5C2HHt7z24wkq-195" value="age" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=#CCCCCC;" vertex="1" parent="1">
-          <mxGeometry x="2173.2692307692305" y="1654" width="156.6346153846154" height="75" as="geometry" />
+          <mxGeometry x="1139.9992307692305" y="1866.5" width="156.6346153846154" height="75" as="geometry" />
         </mxCell>
         <mxCell id="UpMmrp_5C2HHt7z24wkq-196" value="sex" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=#CCCCCC;" vertex="1" parent="1">
-          <mxGeometry x="2329.8992307692306" y="1654" width="156.6346153846154" height="75" as="geometry" />
+          <mxGeometry x="1296.6292307692306" y="1866.5" width="156.6346153846154" height="75" as="geometry" />
         </mxCell>
         <mxCell id="UpMmrp_5C2HHt7z24wkq-197" value="$$\beta_1$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2173.2692307692305" y="1729" width="156.6346153846154" height="75" as="geometry" />
+          <mxGeometry x="1139.9992307692305" y="1941.5" width="156.6346153846154" height="75" as="geometry" />
         </mxCell>
         <mxCell id="UpMmrp_5C2HHt7z24wkq-198" value="edu-num" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="427.6346153846153" y="1754" width="156.6346153846154" height="75" as="geometry" />
@@ -421,8 +415,8 @@
         <mxCell id="UpMmrp_5C2HHt7z24wkq-234" value="categorical" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="726.33" y="2175" width="186.52" height="41.98" as="geometry" />
         </mxCell>
-        <mxCell id="UpMmrp_5C2HHt7z24wkq-235" value="$$\beta_1$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2329.8992307692306" y="1729" width="156.6346153846154" height="75" as="geometry" />
+        <mxCell id="UpMmrp_5C2HHt7z24wkq-235" value="$$\beta_0$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1296.6292307692306" y="1941.5" width="156.6346153846154" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
