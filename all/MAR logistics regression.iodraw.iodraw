@@ -409,6 +409,9 @@
         <mxCell id="UpMmrp_5C2HHt7z24wkq-222" value="$$edunum_2$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;gradientColor=none;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="427.6246153846153" y="1904" width="156.6346153846154" height="75" as="geometry" />
         </mxCell>
+        <mxCell id="UpMmrp_5C2HHt7z24wkq-223" value="$$edunum_n$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;gradientColor=none;fillStyle=auto;" vertex="1" parent="1">
+          <mxGeometry x="428.0046153846153" y="2054" width="156.6346153846154" height="75" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
