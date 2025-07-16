@@ -675,6 +675,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="UpMmrp_5C2HHt7z24wkq-320" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#EF767A;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1579" y="2452.097203166227" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="UpMmrp_5C2HHt7z24wkq-321" value="$$\gamma_1, \gamma_2 \sim N(0,1)$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="993.7900000000001" y="1960" width="250" height="41.98" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
