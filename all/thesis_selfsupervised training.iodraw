@@ -1277,7 +1277,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1223" value="missing mechanism" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;labelPosition=center;verticalLabelPosition=middle;" parent="1" vertex="1">
-          <mxGeometry x="2430" y="3970" width="600" height="77.5" as="geometry" />
+          <mxGeometry x="2270" y="3970" width="760" height="77.5" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1224" value="MCAR / MAR / MNAR" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;labelPosition=center;verticalLabelPosition=middle;" parent="1" vertex="1">
           <mxGeometry x="2435" y="4151.75" width="855" height="80" as="geometry" />
