@@ -403,7 +403,7 @@
         <mxCell id="UpMmrp_5C2HHt7z24wkq-228" value="$$sex_n$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="741.2692307692307" y="2054" width="156.6346153846154" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="UpMmrp_5C2HHt7z24wkq-229" value="$$\cdots$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="UpMmrp_5C2HHt7z24wkq-229" value="$$\cdots$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="428.00000000000006" y="1979" width="156.6346153846154" height="75" as="geometry" />
         </mxCell>
       </root>
