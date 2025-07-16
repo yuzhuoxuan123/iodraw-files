@@ -58,9 +58,6 @@
         <mxCell id="UpMmrp_5C2HHt7z24wkq-20" value="25" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="581.2692307692307" y="675" width="156.6346153846154" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="UpMmrp_5C2HHt7z24wkq-38" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.59;dx=35.5;notch=0;fontSize=28;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="870" y="110" width="87.88" height="56.98" as="geometry" />
-        </mxCell>
         <mxCell id="UpMmrp_5C2HHt7z24wkq-44" value="10" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=#FFF2CC;gradientColor=none;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="424.63461538461536" y="750" width="156.6346153846154" height="75" as="geometry" />
         </mxCell>
