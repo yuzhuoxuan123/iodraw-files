@@ -358,9 +358,6 @@
         <mxCell id="UpMmrp_5C2HHt7z24wkq-204" value="2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="271.00000000000006" y="1904.0000000000002" width="156.6346153846154" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="UpMmrp_5C2HHt7z24wkq-205" value="3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="271.00000000000006" y="1979" width="156.6346153846154" height="75" as="geometry" />
-        </mxCell>
         <mxCell id="UpMmrp_5C2HHt7z24wkq-206" value="age" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="584.2692307692307" y="1754" width="156.6346153846154" height="75" as="geometry" />
         </mxCell>
@@ -397,7 +394,7 @@
         <mxCell id="UpMmrp_5C2HHt7z24wkq-217" value="deterministic" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="653.54" y="1662.02" width="178.52" height="41.98" as="geometry" />
         </mxCell>
-        <mxCell id="UpMmrp_5C2HHt7z24wkq-219" value="3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="UpMmrp_5C2HHt7z24wkq-219" value="$$n$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="271.00000000000006" y="2054" width="156.6346153846154" height="75" as="geometry" />
         </mxCell>
         <mxCell id="UpMmrp_5C2HHt7z24wkq-220" value="38" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;" vertex="1" parent="1">
