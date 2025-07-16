@@ -292,13 +292,8 @@
         <mxCell id="UpMmrp_5C2HHt7z24wkq-168" value="deterministic" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1622.54" y="208.01999999999998" width="178.52" height="41.98" as="geometry" />
         </mxCell>
-        <mxCell id="UpMmrp_5C2HHt7z24wkq-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UpMmrp_5C2HHt7z24wkq-172">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1000" y="1300" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UpMmrp_5C2HHt7z24wkq-172" value="categorical variables" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="1270" width="290" height="41.98" as="geometry" />
+        <mxCell id="UpMmrp_5C2HHt7z24wkq-172" value="convert categorical variables to numbers" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="1270" width="530" height="41.98" as="geometry" />
         </mxCell>
         <mxCell id="UpMmrp_5C2HHt7z24wkq-174" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=0;direction=north;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="746.22" y="1150" width="140" height="20" as="geometry" />
