@@ -465,10 +465,9 @@
         <mxCell id="UpMmrp_5C2HHt7z24wkq-251" value="" style="endArrow=none;html=1;rounded=0;curved=1;" edge="1" parent="UpMmrp_5C2HHt7z24wkq-250">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="250" y="250" as="sourcePoint" />
-            <mxPoint x="450" y="120" as="targetPoint" />
+            <mxPoint x="490" y="120" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="290" y="170" />
-              <mxPoint x="350" y="140" />
+              <mxPoint x="280" y="160" />
             </Array>
           </mxGeometry>
         </mxCell>
