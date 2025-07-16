@@ -322,6 +322,9 @@
         <mxCell id="UpMmrp_5C2HHt7z24wkq-188" value="sex" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="2289.8992307692306" y="300.00000000000006" width="156.6346153846154" height="75" as="geometry" />
         </mxCell>
+        <mxCell id="UpMmrp_5C2HHt7z24wkq-189" value="categorical" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="916.51" width="186.52" height="41.98" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
