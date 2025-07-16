@@ -439,7 +439,7 @@
         <mxCell id="UpMmrp_5C2HHt7z24wkq-245" value="$$y_n=\beta_1 \times age_n + \beta_2 \times sex_n $$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;strokeColor=default;align=center;" vertex="1" parent="1">
           <mxGeometry x="1475.69" y="2055" width="433" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="UpMmrp_5C2HHt7z24wkq-246" value="$$\beta_1,$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="UpMmrp_5C2HHt7z24wkq-246" value="$$\beta_1,beta_2 \sim$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1030" y="2070" width="186.52" height="41.98" as="geometry" />
         </mxCell>
       </root>
