@@ -1267,7 +1267,7 @@
             <mxPoint x="1560" y="4120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qy-mN9d_JIgyYBizsppX-1221" value="random mask" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=60;labelPosition=center;verticalLabelPosition=middle;" parent="1" vertex="1">
+        <mxCell id="Qy-mN9d_JIgyYBizsppX-1221" value="random mask" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;labelPosition=center;verticalLabelPosition=middle;" parent="1" vertex="1">
           <mxGeometry x="1000" y="4030" width="590" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1222" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=5;curved=0;shadow=0;endFill=1;" parent="1" edge="1">
