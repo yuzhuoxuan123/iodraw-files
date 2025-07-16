@@ -367,12 +367,6 @@
         <mxCell id="UpMmrp_5C2HHt7z24wkq-210" value="sex" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="740.8992307692306" y="1754" width="156.6346153846154" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="UpMmrp_5C2HHt7z24wkq-211" value="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="740.8992307692306" y="1829" width="156.6346153846154" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="UpMmrp_5C2HHt7z24wkq-213" value="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="740.8992307692306" y="1904" width="156.6346153846154" height="75" as="geometry" />
-        </mxCell>
         <mxCell id="UpMmrp_5C2HHt7z24wkq-214" value="target" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="427.63000000000017" y="1654" width="156.63" height="41.98" as="geometry" />
         </mxCell>
@@ -388,9 +382,6 @@
         <mxCell id="UpMmrp_5C2HHt7z24wkq-219" value="$$n$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="271.00000000000006" y="2054" width="156.6346153846154" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="UpMmrp_5C2HHt7z24wkq-221" value="0" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="740.8992307692306" y="2054" width="156.6346153846154" height="75" as="geometry" />
-        </mxCell>
         <mxCell id="UpMmrp_5C2HHt7z24wkq-222" value="$$edunum_2$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;gradientColor=none;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="427.6246153846153" y="1904" width="156.6346153846154" height="75" as="geometry" />
         </mxCell>
@@ -402,6 +393,9 @@
         </mxCell>
         <mxCell id="UpMmrp_5C2HHt7z24wkq-225" value="$$age_n$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="584.2592307692307" y="2054" width="156.6346153846154" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="UpMmrp_5C2HHt7z24wkq-226" value="$$sex_1$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="741.2692307692307" y="1830" width="156.6346153846154" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
