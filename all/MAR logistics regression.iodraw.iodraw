@@ -293,7 +293,7 @@
           <mxGeometry x="1622.54" y="208.01999999999998" width="178.52" height="41.98" as="geometry" />
         </mxCell>
         <mxCell id="UpMmrp_5C2HHt7z24wkq-172" value="categorical variables" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="920" y="770" width="290" height="41.98" as="geometry" />
+          <mxGeometry x="1060" y="1270" width="290" height="41.98" as="geometry" />
         </mxCell>
         <mxCell id="UpMmrp_5C2HHt7z24wkq-174" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=0;direction=north;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="746.22" y="1150" width="140" height="20" as="geometry" />
@@ -306,6 +306,12 @@
         </mxCell>
         <mxCell id="UpMmrp_5C2HHt7z24wkq-180" value="numbers" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1694.96" y="1185" width="186.52" height="41.98" as="geometry" />
+        </mxCell>
+        <mxCell id="UpMmrp_5C2HHt7z24wkq-182" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="950" y="1220" as="sourcePoint" />
+            <mxPoint x="1000" y="1170" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
