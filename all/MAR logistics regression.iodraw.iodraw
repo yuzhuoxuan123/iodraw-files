@@ -500,7 +500,7 @@
             <mxPoint x="1740" y="2740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UpMmrp_5C2HHt7z24wkq-256" value="" style="endArrow=none;html=1;rounded=0;curved=1;" edge="1" parent="1">
+        <mxCell id="UpMmrp_5C2HHt7z24wkq-256" value="" style="endArrow=none;html=1;rounded=0;curved=1;strokeColor=#7EA6E0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1490" y="2740" as="sourcePoint" />
             <mxPoint x="1690" y="2610" as="targetPoint" />
@@ -510,7 +510,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UpMmrp_5C2HHt7z24wkq-257" value="" style="endArrow=none;html=1;rounded=0;curved=1;" edge="1" parent="1">
+        <mxCell id="UpMmrp_5C2HHt7z24wkq-257" value="" style="endArrow=none;html=1;rounded=0;curved=1;strokeColor=#7EA6E0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1290" y="2870" as="sourcePoint" />
             <mxPoint x="1490" y="2740" as="targetPoint" />
