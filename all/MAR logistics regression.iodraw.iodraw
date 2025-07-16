@@ -681,7 +681,7 @@
             <mxPoint x="1457" y="2280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UpMmrp_5C2HHt7z24wkq-344" value="$$logistics $$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="UpMmrp_5C2HHt7z24wkq-344" value="$$\mathrm{logistics} $$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1074.52" y="2220" width="236.21" height="41.98" as="geometry" />
         </mxCell>
       </root>
