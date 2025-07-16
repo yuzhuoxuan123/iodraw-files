@@ -1439,10 +1439,10 @@
           <mxGeometry x="2400" y="5351" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1353" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#48C0AA;strokeWidth=3;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="30" y="6377" width="240" height="110" as="geometry" />
+          <mxGeometry x="-250" y="6370" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1354" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#48C0AA;strokeWidth=3;fillStyle=zigzag-line;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="30" y="6547" width="240" height="110" as="geometry" />
+          <mxGeometry x="-250" y="6540" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1355" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EF767A;strokeWidth=3;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="1110" y="6377" width="240" height="110" as="geometry" />
@@ -1457,7 +1457,7 @@
           <mxGeometry x="2338" y="6547" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1359" value="observations from raw data" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;labelPosition=center;verticalLabelPosition=middle;" parent="1" vertex="1">
-          <mxGeometry x="310" y="6370" width="800" height="125" as="geometry" />
+          <mxGeometry x="140" y="6370" width="970" height="125" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1360" value="missing from raw data" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;labelPosition=center;verticalLabelPosition=middle;" parent="1" vertex="1">
           <mxGeometry x="305" y="6540" width="705" height="125" as="geometry" />
