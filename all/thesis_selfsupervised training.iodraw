@@ -1261,14 +1261,14 @@
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1209" value="testing" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;labelPosition=center;verticalLabelPosition=middle;" parent="1" vertex="1">
           <mxGeometry x="3300" y="3250" width="380" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="Qy-mN9d_JIgyYBizsppX-1220" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=7;curved=0;shadow=0;endFill=1;spacing=0;fontSize=9;" parent="1" edge="1">
+        <mxCell id="Qy-mN9d_JIgyYBizsppX-1220" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=7;curved=0;shadow=0;endFill=1;spacing=0;fontSize=11;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1010" y="4110" as="sourcePoint" />
             <mxPoint x="1600" y="4107.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1221" value="random mask" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;labelPosition=center;verticalLabelPosition=middle;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="4030" width="590" height="70" as="geometry" />
+          <mxGeometry x="999" y="4010" width="590" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1222" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=5;curved=0;shadow=0;endFill=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
