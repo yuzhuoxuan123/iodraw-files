@@ -349,9 +349,6 @@
         <mxCell id="UpMmrp_5C2HHt7z24wkq-199" value="$$edunum_1$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;gradientColor=none;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="427.6346153846153" y="1829" width="156.6346153846154" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="UpMmrp_5C2HHt7z24wkq-201" value="10" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;gradientColor=none;fillStyle=auto;" vertex="1" parent="1">
-          <mxGeometry x="427.6346153846153" y="1979" width="156.6346153846154" height="75" as="geometry" />
-        </mxCell>
         <mxCell id="UpMmrp_5C2HHt7z24wkq-202" value="sample_id" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="271.00000000000006" y="1754" width="156.6346153846154" height="75" as="geometry" />
         </mxCell>
@@ -400,9 +397,6 @@
         <mxCell id="UpMmrp_5C2HHt7z24wkq-217" value="deterministic" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="653.54" y="1662.02" width="178.52" height="41.98" as="geometry" />
         </mxCell>
-        <mxCell id="UpMmrp_5C2HHt7z24wkq-218" value="10" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;gradientColor=none;fillStyle=auto;" vertex="1" parent="1">
-          <mxGeometry x="427.6346153846153" y="2054" width="156.6346153846154" height="75" as="geometry" />
-        </mxCell>
         <mxCell id="UpMmrp_5C2HHt7z24wkq-219" value="3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="271.00000000000006" y="2054" width="156.6346153846154" height="75" as="geometry" />
         </mxCell>
@@ -411,6 +405,9 @@
         </mxCell>
         <mxCell id="UpMmrp_5C2HHt7z24wkq-221" value="0" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="740.8992307692306" y="2054" width="156.6346153846154" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="UpMmrp_5C2HHt7z24wkq-222" value="$$edunum_2$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;gradientColor=none;fillStyle=auto;" vertex="1" parent="1">
+          <mxGeometry x="427.6246153846153" y="1904" width="156.6346153846154" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
