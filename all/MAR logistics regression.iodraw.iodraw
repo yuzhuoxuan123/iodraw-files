@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="VPvIx2XXLHf_mWW60aEi">
-    <mxGraphModel dx="2008" dy="1278" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="1057" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -524,13 +524,13 @@
             <mxPoint x="1740" y="2600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UpMmrp_5C2HHt7z24wkq-263" value="$$0$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=none;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="UpMmrp_5C2HHt7z24wkq-263" value="$$0$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1200" y="2865" width="20" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UpMmrp_5C2HHt7z24wkq-264" value="$$1$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=none;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="UpMmrp_5C2HHt7z24wkq-264" value="$$1$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1200" y="2590" width="20" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UpMmrp_5C2HHt7z24wkq-265" value="$$0$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=none;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="UpMmrp_5C2HHt7z24wkq-265" value="$$0$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1491.9" y="2879" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UpMmrp_5C2HHt7z24wkq-266" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -591,7 +591,7 @@
             <mxPoint x="140" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UpMmrp_5C2HHt7z24wkq-277" value="$$\gamma_o$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=none;strokeColor=none;fontColor=#000000;" vertex="1" parent="UpMmrp_5C2HHt7z24wkq-267">
+        <mxCell id="UpMmrp_5C2HHt7z24wkq-277" value="$$\gamma_o$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;strokeColor=none;fontColor=#000000;" vertex="1" parent="UpMmrp_5C2HHt7z24wkq-267">
           <mxGeometry x="100" y="150" width="20" height="30" as="geometry" />
         </mxCell>
       </root>
