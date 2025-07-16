@@ -591,7 +591,7 @@
             <mxPoint x="140" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UpMmrp_5C2HHt7z24wkq-277" value="$$\beta_o$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=none;strokeColor=none;fontColor=#000000;" vertex="1" parent="UpMmrp_5C2HHt7z24wkq-267">
+        <mxCell id="UpMmrp_5C2HHt7z24wkq-277" value="$$\gamma_o$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=none;strokeColor=none;fontColor=#000000;" vertex="1" parent="UpMmrp_5C2HHt7z24wkq-267">
           <mxGeometry x="100" y="150" width="20" height="30" as="geometry" />
         </mxCell>
       </root>
