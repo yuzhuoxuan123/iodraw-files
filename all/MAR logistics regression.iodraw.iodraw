@@ -445,7 +445,7 @@
         <mxCell id="UpMmrp_5C2HHt7z24wkq-247" value="randomly sampled" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1018.6300000000001" y="2118.02" width="297.58" height="41.98" as="geometry" />
         </mxCell>
-        <mxCell id="UpMmrp_5C2HHt7z24wkq-248" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="UpMmrp_5C2HHt7z24wkq-250">
+        <mxCell id="UpMmrp_5C2HHt7z24wkq-248" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UpMmrp_5C2HHt7z24wkq-250" target="UpMmrp_5C2HHt7z24wkq-250">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="562.95" y="2991" as="sourcePoint" />
             <mxPoint x="562.95" y="2481" as="targetPoint" />
@@ -458,7 +458,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UpMmrp_5C2HHt7z24wkq-250" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="2480" width="500" height="500" as="geometry" />
+          <mxGeometry x="320" y="2480" width="500" height="500" as="geometry">
+            <mxRectangle x="320" y="2480" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
