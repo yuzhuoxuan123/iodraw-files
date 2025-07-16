@@ -310,12 +310,6 @@
             <mxPoint x="1070" y="1206" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UpMmrp_5C2HHt7z24wkq-185" value="edu-num" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=#CCCCCC;" vertex="1" parent="1">
-          <mxGeometry x="1976.6346153846152" y="300.00000000000006" width="156.6346153846154" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="UpMmrp_5C2HHt7z24wkq-186" value="sample_id" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=#CCCCCC;" vertex="1" parent="1">
-          <mxGeometry x="1820" y="300.00000000000006" width="156.6346153846154" height="75" as="geometry" />
-        </mxCell>
         <mxCell id="UpMmrp_5C2HHt7z24wkq-187" value="age" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="2133.2692307692305" y="300.00000000000006" width="156.6346153846154" height="75" as="geometry" />
         </mxCell>
