@@ -684,7 +684,7 @@
         <mxCell id="UpMmrp_5C2HHt7z24wkq-344" value="$$\mathrm{logistics} (y_n)$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;strokeColor=none;fontColor=#000000;align=left;" vertex="1" parent="1">
           <mxGeometry x="1074.52" y="2220" width="375.48" height="41.98" as="geometry" />
         </mxCell>
-        <mxCell id="UpMmrp_5C2HHt7z24wkq-345" value="$$\mathrm{logistics} (y_n)$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;strokeColor=none;fontColor=#000000;align=left;" vertex="1" parent="1">
+        <mxCell id="UpMmrp_5C2HHt7z24wkq-345" value="$$\mathrm{logistics} (\gamma_0+y_n)$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;strokeColor=none;fontColor=#000000;align=left;" vertex="1" parent="1">
           <mxGeometry x="1076.42" y="2261.98" width="375.48" height="41.98" as="geometry" />
         </mxCell>
       </root>
