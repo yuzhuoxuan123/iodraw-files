@@ -1451,10 +1451,10 @@
           <mxGeometry x="1110" y="6547" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1357" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7D9BE5;strokeWidth=3;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="2640" y="6377.5" width="240" height="110" as="geometry" />
+          <mxGeometry x="2690" y="6377.5" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1358" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7D9BE5;strokeWidth=3;fillStyle=zigzag-line;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="2640" y="6547" width="240" height="110" as="geometry" />
+          <mxGeometry x="2690" y="6547" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1359" value="observations from raw data" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;labelPosition=center;verticalLabelPosition=middle;" parent="1" vertex="1">
           <mxGeometry x="50" y="6362" width="970" height="125" as="geometry" />
@@ -1469,10 +1469,10 @@
           <mxGeometry x="1380" y="6540" width="1090" height="125" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1363" value="observations from missing mechanism" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;labelPosition=center;verticalLabelPosition=middle;" parent="1" vertex="1">
-          <mxGeometry x="2900" y="6370" width="1412" height="125" as="geometry" />
+          <mxGeometry x="2950" y="6370" width="1412" height="125" as="geometry" />
         </mxCell>
         <mxCell id="Qy-mN9d_JIgyYBizsppX-1364" value="missing from missing mechanism" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;labelPosition=center;verticalLabelPosition=middle;" parent="1" vertex="1">
-          <mxGeometry x="2900" y="6540" width="1202" height="125" as="geometry" />
+          <mxGeometry x="2950" y="6540" width="1202" height="125" as="geometry" />
         </mxCell>
         <mxCell id="ZdpiwdMfnNob12SJqFXb-1" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=7;curved=0;shadow=0;endFill=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
