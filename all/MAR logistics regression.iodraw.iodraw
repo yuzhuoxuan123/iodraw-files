@@ -635,10 +635,10 @@
             <mxPoint x="1570" y="2370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UpMmrp_5C2HHt7z24wkq-308" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#E4B112;" edge="1" parent="1">
+        <mxCell id="UpMmrp_5C2HHt7z24wkq-308" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#159FD7;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1530" y="2430" as="sourcePoint" />
-            <mxPoint x="1580" y="2380" as="targetPoint" />
+            <mxPoint x="1530" y="2490" as="sourcePoint" />
+            <mxPoint x="1580" y="2440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
