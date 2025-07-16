@@ -590,6 +590,9 @@
         <mxCell id="UpMmrp_5C2HHt7z24wkq-292" value="$$0.5$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="770" y="2796.6763060686017" width="30.833333333333332" height="36.41160949868075" as="geometry" />
         </mxCell>
+        <mxCell id="UpMmrp_5C2HHt7z24wkq-295" value="randomly sampled" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="472.4200000000001" y="2791.11" width="297.58" height="41.98" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
