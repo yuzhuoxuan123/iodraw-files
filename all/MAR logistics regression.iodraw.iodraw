@@ -346,7 +346,7 @@
         <mxCell id="UpMmrp_5C2HHt7z24wkq-198" value="edu-num" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="427.6346153846153" y="1754" width="156.6346153846154" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="UpMmrp_5C2HHt7z24wkq-199" value="$$edu-num_1$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;gradientColor=none;fillStyle=auto;" vertex="1" parent="1">
+        <mxCell id="UpMmrp_5C2HHt7z24wkq-199" value="$$edunum_1$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;gradientColor=none;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="427.6346153846153" y="1829" width="156.6346153846154" height="75" as="geometry" />
         </mxCell>
         <mxCell id="UpMmrp_5C2HHt7z24wkq-200" value="15" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fillColor=none;gradientColor=none;fillStyle=auto;" vertex="1" parent="1">
