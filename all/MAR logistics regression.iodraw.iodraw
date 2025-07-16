@@ -658,18 +658,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UpMmrp_5C2HHt7z24wkq-312" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#EF767A;strokeColor=none;" vertex="1" parent="UpMmrp_5C2HHt7z24wkq-309">
-          <mxGeometry x="61.25" y="300.5695778364111" width="15" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="UpMmrp_5C2HHt7z24wkq-313" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#EF767A;strokeColor=none;" vertex="1" parent="UpMmrp_5C2HHt7z24wkq-309">
-          <mxGeometry x="131.25" y="282.8995778364115" width="15" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="UpMmrp_5C2HHt7z24wkq-314" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#EF767A;strokeColor=none;" vertex="1" parent="UpMmrp_5C2HHt7z24wkq-309">
-          <mxGeometry x="211.25" y="252.89957783641148" width="15" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="UpMmrp_5C2HHt7z24wkq-315" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#EF767A;strokeColor=none;" vertex="1" parent="UpMmrp_5C2HHt7z24wkq-309">
-          <mxGeometry x="181.25" y="267.8995778364115" width="15" height="15" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
