@@ -10,7 +10,7 @@
         <mxCell id="uwwaeHAOph844SHka0ic-2" value="observational data,&lt;div&gt;complete&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=28;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="940" y="1370" width="250" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="uwwaeHAOph844SHka0ic-3" value="deletion" style="rhombus;whiteSpace=wrap;html=1;fontSize=28;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="uwwaeHAOph844SHka0ic-3" value="deletion" style="rhombus;whiteSpace=wrap;html=1;fontSize=28;strokeWidth=2;strokeColor=#EA6B66;" parent="1" vertex="1">
           <mxGeometry x="660" y="1450" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="uwwaeHAOph844SHka0ic-4" value="imputation" style="rhombus;whiteSpace=wrap;html=1;fontSize=28;strokeWidth=2;strokeColor=#3333FF;" parent="1" vertex="1">
