@@ -13,7 +13,7 @@
         <mxCell id="uwwaeHAOph844SHka0ic-3" value="deletion" style="rhombus;whiteSpace=wrap;html=1;fontSize=28;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="660" y="1450" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="uwwaeHAOph844SHka0ic-4" value="imputation" style="rhombus;whiteSpace=wrap;html=1;fontSize=28;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="uwwaeHAOph844SHka0ic-4" value="imputation" style="rhombus;whiteSpace=wrap;html=1;fontSize=28;strokeWidth=2;strokeColor=#3333FF;" parent="1" vertex="1">
           <mxGeometry x="660" y="1310" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uwwaeHAOph844SHka0ic-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=28;" parent="1" source="uwwaeHAOph844SHka0ic-1" target="uwwaeHAOph844SHka0ic-4" edge="1">
@@ -102,7 +102,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uwwaeHAOph844SHka0ic-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;strokeColor=#000000;dashed=1;fontSize=28;" parent="1" vertex="1">
-          <mxGeometry x="238.95000000000002" y="1200" width="960.41" height="500" as="geometry" />
+          <mxGeometry x="250.00000000000003" y="1580" width="960.41" height="500" as="geometry" />
         </mxCell>
         <mxCell id="uwwaeHAOph844SHka0ic-21" value="partial scale sample&lt;div&gt;e.g., 1% of population&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fillColor=none;strokeColor=default;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="889.36" y="1120" width="310" height="80" as="geometry" />
