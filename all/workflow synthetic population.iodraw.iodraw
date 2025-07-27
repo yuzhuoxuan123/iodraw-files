@@ -68,10 +68,10 @@
             <mxPoint x="600" y="1510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uwwaeHAOph844SHka0ic-12" value="our focus" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fillColor=none;strokeColor=#8BCFEB;gradientColor=none;dashed=1;strokeWidth=2;shadow=0;" parent="1" vertex="1">
+        <mxCell id="uwwaeHAOph844SHka0ic-12" value="our focus" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fillColor=none;strokeColor=#3333FF;gradientColor=none;dashed=1;strokeWidth=2;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="572.5" y="1216" width="355" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="uwwaeHAOph844SHka0ic-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;strokeColor=#8BCFEB;strokeWidth=2;fontSize=28;" parent="1" source="uwwaeHAOph844SHka0ic-4" target="uwwaeHAOph844SHka0ic-12" edge="1">
+        <mxCell id="uwwaeHAOph844SHka0ic-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;strokeColor=#6666FF;strokeWidth=2;fontSize=28;" parent="1" source="uwwaeHAOph844SHka0ic-4" target="uwwaeHAOph844SHka0ic-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="750" y="1510" as="sourcePoint" />
             <mxPoint x="750" y="1550" as="targetPoint" />
