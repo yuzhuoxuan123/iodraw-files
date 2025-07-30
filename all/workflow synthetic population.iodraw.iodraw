@@ -89,7 +89,7 @@
         <mxCell id="uwwaeHAOph844SHka0ic-16" value="synthetic population generation methods" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1220" y="1350" width="270" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uwwaeHAOph844SHka0ic-17" value="MATSim" style="rounded=1;whiteSpace=wrap;html=1;fontSize=28;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="uwwaeHAOph844SHka0ic-17" value="Agent-Based Model" style="rounded=1;whiteSpace=wrap;html=1;fontSize=28;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1816.5900000000001" y="1370" width="138.82" height="100" as="geometry" />
         </mxCell>
         <mxCell id="uwwaeHAOph844SHka0ic-18" value="input" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;strokeWidth=2;" parent="1" vertex="1">
