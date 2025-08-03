@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="zxwvJ8QqBvNLKcDwU7yc">
-    <mxGraphModel dx="2285" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="2714" dy="983" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -446,11 +446,6 @@
         <UserObject label="https://www.cnblogs.com/pinard/p/6645766.html" link="https://www.cnblogs.com/pinard/p/6645766.html" id="w4WEWg_jyvYBUj-fWXlm-15">
           <mxCell style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="754.53" y="2090" width="290" height="40" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="https://www.cheenta.com/monte-carlo-method-to-calculate-pi/" link="https://www.cheenta.com/monte-carlo-method-to-calculate-pi/" id="iO_asqZTAaKQtMgMHoR0-1">
-          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="870" y="680" width="360" height="40" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
