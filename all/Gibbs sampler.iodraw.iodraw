@@ -448,6 +448,11 @@
             <mxGeometry x="754.53" y="2090" width="290" height="40" as="geometry" />
           </mxCell>
         </UserObject>
+        <UserObject label="https://www.cheenta.com/monte-carlo-method-to-calculate-pi/" link="https://www.cheenta.com/monte-carlo-method-to-calculate-pi/" id="iO_asqZTAaKQtMgMHoR0-1">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="870" y="680" width="360" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
