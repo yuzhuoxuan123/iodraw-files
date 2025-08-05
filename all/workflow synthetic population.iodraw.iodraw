@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="Jj4q09P-xYGC9ul7SY_h">
-    <mxGraphModel dx="1673" dy="238" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2231" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -105,7 +105,7 @@
           <mxGeometry x="239.59" y="1200" width="970.41" height="500" as="geometry" />
         </mxCell>
         <mxCell id="uwwaeHAOph844SHka0ic-21" value="microsample&lt;div&gt;e.g., 1% of population size&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fillColor=none;strokeColor=none;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="900" y="1120" width="310" height="80" as="geometry" />
+          <mxGeometry x="870" y="1120" width="340" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uwwaeHAOph844SHka0ic-22" value="full size population" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fillColor=none;strokeColor=none;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1490" y="1120" width="290" height="80" as="geometry" />
